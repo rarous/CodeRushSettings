@@ -1,0 +1,21 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Smart Tags Catalog">
+ <Language Name="*Neutral*">
+  <Section Name="Code!">
+   <Option Name="ShowInContext" Value="True" />
+   <Option Name="ShowInPopup" Value="True" />
+  </Section>
+  <Section Name="Jump to">
+   <Option Name="ShowInContext" Value="True" />
+   <Option Name="ShowInPopup" Value="False" />
+  </Section>
+  <Section Name="Refactor!">
+   <Option Name="ShowInContext" Value="True" />
+   <Option Name="ShowInPopup" Value="True" />
+  </Section>
+  <Section Name="Suppress Issue">
+   <Option Name="ShowInContext" Value="False" />
+   <Option Name="ShowInPopup" Value="False" />
+  </Section>
+ </Language>
+</Page>

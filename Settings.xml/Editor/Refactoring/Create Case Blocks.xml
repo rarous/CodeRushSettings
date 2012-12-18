@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Create Case Blocks">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="GenerateDefaultBlock" Value="True" />
+  </Section>
+ </Language>
+</Page>

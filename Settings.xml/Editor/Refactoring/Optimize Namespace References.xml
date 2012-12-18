@@ -1,0 +1,14 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Optimize Namespace References">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="NamespaceReferencesSortMode" Value="1" />
+   <Option Name="SortSystemReferences" Value="True" />
+   <Option Name="KeepReferences" Value="False" />
+   <Option Name="ReferencesToLeave_Count" Value="3" />
+   <Option Name="ReferencesToLeave_0" Value="System" />
+   <Option Name="ReferencesToLeave_1" Value="System.Collections.Generic" />
+   <Option Name="ReferencesToLeave_2" Value="System.Linq" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="QuickNav">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="Width" Value="300" />
+   <Option Name="MaxVisibleRows" Value="10" />
+   <Option Name="ShowingFilterControls" Value="False" />
+   <Option Name="ShowingStringFilter" Value="True" />
+   <Option Name="ShowTypeNames" Value="False" />
+  </Section>
+ </Language>
+</Page>

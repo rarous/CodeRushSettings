@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Remove Type Qualifier">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="RemoveTypeMethod" Value="Manual" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Visualizer">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Enabled" Value="False" />
+   <Option Name="ShowBooleanConditionIcons" Value="True" />
+   <Option Name="ShowLoopCounters" Value="True" />
+   <Option Name="ShowExpressionValues" Value="True" />
+   <Option Name="HighlightConclusiveBooleanSubexpressions" Value="True" />
+   <Option Name="ShowNodeMap" Value="Always" />
+  </Section>
+ </Language>
+</Page>

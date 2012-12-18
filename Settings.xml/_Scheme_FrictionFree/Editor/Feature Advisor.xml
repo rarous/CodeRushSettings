@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Feature Advisor">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="MaxHistorySize" Value="20" />
+   <Option Name="AlwaysShowNotificationBar" Value="True" />
+   <Option Name="FilterBasedOnFeatureStatistics" Value="False" />
+   <Option Name="Notification" Value="StatusBar" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Member Move">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="NewMemberTargetPosition" Value="Top" />
+   <Option Name="ShowTopLevelRegionsOnly" Value="False" />
+   <Option Name="FavoriteRegions_Count" Value="0" />
+  </Section>
+ </Language>
+</Page>

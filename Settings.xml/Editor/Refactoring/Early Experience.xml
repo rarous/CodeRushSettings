@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Early Experience">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="UseAdvancedChecks" Value="False" />
+  </Section>
+ </Language>
+</Page>

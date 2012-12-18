@@ -1,0 +1,38 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Open Files">
+ <Language Name="*Neutral*">
+  <Section Name="Show">
+   <Option Name="Toolbar" Value="True" />
+   <Option Name="StatusBar" Value="True" />
+  </Section>
+  <Section Name="ArrangeBy">
+   <Option Name="Path" Value="False" />
+   <Option Name="Project" Value="False" />
+   <Option Name="File" Value="True" />
+  </Section>
+  <Section Name="ColumnVisibility">
+   <Option Name="File" Value="0" />
+   <Option Name="Path" Value="-1" />
+   <Option Name="Project" Value="-1" />
+   <Option Name="Changes" Value="-1" />
+   <Option Name="Modified" Value="-1" />
+  </Section>
+  <Section Name="SortOrder">
+   <Option Name="File" Value="1" />
+   <Option Name="Project" Value="0" />
+   <Option Name="Path" Value="0" />
+   <Option Name="Changes" Value="0" />
+   <Option Name="Modified" Value="0" />
+  </Section>
+  <Section Name="ColumnWidth">
+   <Option Name="File" Value="200" />
+   <Option Name="Project" Value="75" />
+   <Option Name="Path" Value="75" />
+   <Option Name="Changes" Value="75" />
+   <Option Name="Modified" Value="75" />
+  </Section>
+  <Section Name="Stats">
+   <Option Name="HotBarVisible" Value="False" />
+  </Section>
+ </Language>
+</Page>

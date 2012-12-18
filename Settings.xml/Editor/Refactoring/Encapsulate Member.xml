@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Encapsulate Member">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="UseFieldName" Value="True" />
+   <Option Name="SeparateFieldName" Value="False" />
+   <Option Name="FieldNamePosition" Value="End" />
+  </Section>
+ </Language>
+</Page>

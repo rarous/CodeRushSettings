@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Move to Code-behind">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="CodingLanguages" Value="CSharp" />
+  </Section>
+ </Language>
+</Page>

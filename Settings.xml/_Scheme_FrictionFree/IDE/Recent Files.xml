@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Recent Files">
+ <Language Name="*Neutral*">
+  <Section Name="info">
+   <Option Name="Count" Value="3" />
+  </Section>
+  <Section Name="datas">
+   <Option Name="0" Value="D:\Projects\Cb4.InfoGenerator\Cb4.InfoGenerator\Helper.cs&lt;16.7.2012 14:43:13&gt;" />
+   <Option Name="1" Value="D:\Projects\Cb4.InfoGenerator\Cb4.InfoGenerator\Program.cs&lt;16.7.2012 14:40:07&gt;" />
+   <Option Name="2" Value="C:\Users\a.roubicek\AppData\Local\Temp\TFSTemp\v164DC6.tmp\1159841\DefaultTemplate(C70096).xaml&lt;16.7.2012 10:57:18&gt;" />
+  </Section>
+ </Language>
+</Page>

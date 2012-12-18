@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="ToolWindows Service">
+ <Language Name="*Neutral*">
+  <Section Name="ToolWindows_Orcas">
+   <Option Name="Visible_Count" Value="0" />
+  </Section>
+ </Language>
+</Page>

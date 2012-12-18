@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Property to Method">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="MethodsPosition" Value="UsePicker" />
+   <Option Name="SetterMethodVisibility" Value="UseSourceVisibility" />
+   <Option Name="GetterMethodVisibility" Value="UseSourceVisibility" />
+   <Option Name="SetterMethodPrefix" Value="Set" />
+   <Option Name="GetterMethodPrefix" Value="Get" />
+   <Option Name="RemoveSourceProperty" Value="True" />
+  </Section>
+ </Language>
+</Page>

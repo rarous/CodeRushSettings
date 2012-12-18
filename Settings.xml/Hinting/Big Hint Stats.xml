@@ -1,0 +1,34 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Big Hint Stats">
+ <Language Name="*Neutral*">
+  <Section Name="#Hints#">
+   <Option Name="Count" Value="2" />
+   <Option Name="Feature0" Value="Refactoring" />
+   <Option Name="Feature1" Value="Templates" />
+  </Section>
+  <Section Name="Refactoring">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Context menu hint" />
+  </Section>
+  <Section Name="Refactoring.Context menu hint">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2732" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Templates">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Smart Return" />
+  </Section>
+  <Section Name="Templates.Smart Return">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+ </Language>
+</Page>

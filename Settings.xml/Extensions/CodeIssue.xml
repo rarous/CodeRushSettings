@@ -1,0 +1,431 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="CodeIssue">
+ <Language Name="*Neutral*">
+  <Section Name="DuplicateCode">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Fields should be disposed">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Class should implement IDisposable">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Format item index too large">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Unused variable">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Unused member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Undeclared element">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Complex member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Member is not implemented">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant delegate creation">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant constructor">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant destructor">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Member can be static">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Property can be auto-implemented">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Initializer can be used">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Delegate can be replaced with lambda expression">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Type can be moved to separate file">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Member names cannot be the same as their enclosing type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Abstract member cannot be declared in nonabstract class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Lambda parameter has redundant type specification">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant String.Format call">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant field initialization">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Redundant base constructor call">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="ForEach Action can be called">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Redundant else statement">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Null coalescing operation can be used">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Ternary expression can be used">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Undisposed local">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="String.Compare can be used">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="String.Format can be used">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Environment.NewLine can be used">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Empty finally block">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Unused type parameter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Case statements do not explicitly handle all enum values">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Default branch is missing">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Constructor cannot call itself">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Type name does not correspond to file name">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant private setter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Unused setter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Partial class has only a single part">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Virtual member cannot be private">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can inline temporary variable">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant base qualifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant this qualifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Virtual member cannot be declared in sealed class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Virtual member cannot be declared in structures">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Abstract member cannot be private">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Abstract member cannot be marked as sealed">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Abstract member cannot be marked as virtual">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Override member cannot be marked as virtual">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Override member cannot be marked as new">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Override member cannot change access rights">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot override inherited sealed member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Static class cannot be abstract">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Static class cannot be sealed">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot declare instance member in a static class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Static class cannot contain protected member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant sealed modifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Member cannot be sealed because it is not an override">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Sealed class cannot be abstract">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Struct cannot contain parameterless constructor">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot create an instance of abstract class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot create an instance of interface">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Catch block is empty">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Try statement without catch or finally">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Partial method cannot have access modifiers or the virtual, abstract, override, new, sealed, or extern modifiers">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Partial method has only single part">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Partial method must be declared within a partial class or partial struct">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Extension method cannot have a parameter array used with 'this' modifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Extension method cannot have a pointer parameter used with 'this' modifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Extension method must be defined in a non-generic static class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Extension method must be defined in a top level static class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Parameter modifier 'this' should be the first parameter of extension method">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot inherit from sealed type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot inherit from special class 'System.ValueType'">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Interface expected">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Only class types can contain destructors">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Operator must be declared static and public">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Protected member in sealed type will be private">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Protected member cannot be declared in struct">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Keyword this/Me is not valid in a static member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Static constructors cannot have access modifiers">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Keyword &quot;base&quot; is not valid in a static member">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Interface events cannot have add or remove accessors">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot create an instance of static class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Generic class cannot derive from Attribute">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Interface cannot contain constructors">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Method must have a return type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Static constructors must be parameterless">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Partial method cannot have out parameters">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Control cannot leave the body of a finally clause">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Indexer cannot be static">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Anonymous method cannot have 'params' parameter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Lambda expression cannot have 'params' parameter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Operator cannot have 'params' parameter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="The params parameter must be a single dimensional array">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="The params parameter must be the last parameter in a formal parameter list">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Abstract member cannot declare a body">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Extern member cannot declare a body">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Interface member cannot have a definition">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Member must declare a body because it is not marked abstract or extern">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Operator cannot be abstract">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Constructor must declare a body">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Destructor must declare a body">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Operator must declare a body">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Array elements cannot be of static type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Constant cannot be marked static">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot declare variable of static type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Overloaded unary operator takes one parameter">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Property cannot have void type">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Empty event handler">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can combine initialization with declaration">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot yield in the body of a catch clause">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot yield in the body of a finally clause">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot yield in the body of a try block with a catch clause">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Delegate cannot be marked static">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Empty switch statement">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Empty namespace declaration">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Case statement has incorrect range of integers expression">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can initialize conditionally">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Cannot inherit from static class">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant type qualifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can remove type qualifier">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Nested code can be flattened">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Implicit variable can be used">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Redundant ToString() call">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Declaration can be a constant">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Field can be read-only">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Virtual call in constructor">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can declare MVC View">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Can implement base type constructors">
+   <Option Name="Enabled" Value="False" />
+  </Section>
+  <Section Name="Base type constructors are not implemented">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Assignment to Global Variable">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Duplicate local declaration">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Hides declaration from the outer scope">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Duplicate property declaration">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant use of 'this' qualifier in the global context">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Possibly unassigned variable usage">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Suspicious equal-to operator usage">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Suspicious unequal-to operator usage">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Statement is not terminated">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Redundant namespace reference">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+ </Language>
+</Page>

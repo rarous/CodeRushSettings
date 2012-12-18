@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Issue Suppression">
+ <Language Name="*Neutral*">
+  <Section Name="Default">
+   <Option Name="StoreCacheNearSolutionFile" Value="False" />
+  </Section>
+ </Language>
+</Page>

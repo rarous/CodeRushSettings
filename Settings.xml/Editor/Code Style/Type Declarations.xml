@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Type Declarations">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="NewTypePosition" Value="SeparateFile" />
+  </Section>
+ </Language>
+</Page>

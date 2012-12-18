@@ -1,0 +1,23 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="ToolWindows Service">
+ <Language Name="*Neutral*">
+  <Section Name="ToolWindows_VS2010">
+   <Option Name="Visible_Count" Value="2" />
+   <Option Name="Visible_0" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+   <Option Name="Visible_1" Value="{68f184c9-78e5-4752-b815-44ebecfd847f}" />
+  </Section>
+  <Section Name="ToolWindows_Orcas">
+   <Option Name="Visible_Count" Value="0" />
+   <Option Name="Visible_0" Value="{68f184c9-78e5-4752-b815-44ebecfd847f}" />
+  </Section>
+  <Section Name="ToolWindows_VS2011">
+   <Option Name="Visible_Count" Value="1" />
+   <Option Name="Visible_0" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+  </Section>
+  <Section Name="ToolWindows_VS2012">
+   <Option Name="Visible_Count" Value="2" />
+   <Option Name="Visible_0" Value="{17f732d1-2971-4bf8-a0f1-b597ad5af9b4}" />
+   <Option Name="Visible_1" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+  </Section>
+ </Language>
+</Page>

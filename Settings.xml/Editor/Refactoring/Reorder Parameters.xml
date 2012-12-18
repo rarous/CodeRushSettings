@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Reorder Parameters">
+ <Language Name="*Neutral*">
+  <Section Name="Flags">
+   <Option Name="LeaveChanges" Value="False" />
+   <Option Name="UseAnimation" Value="True" />
+   <Option Name="UseCodeHint" Value="True" />
+  </Section>
+ </Language>
+</Page>

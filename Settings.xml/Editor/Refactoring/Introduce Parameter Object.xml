@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Introduce Parameter Object">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="NestParameterObject" Value="AccordingVisibility" />
+   <Option Name="ParameterObjectAccess" Value="Private" />
+   <Option Name="ParameterObjectType" Value="Struct" />
+  </Section>
+ </Language>
+</Page>

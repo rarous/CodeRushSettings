@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Inline Recent Assignment">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="RemoveDeclaration" Value="True" />
+  </Section>
+ </Language>
+</Page>

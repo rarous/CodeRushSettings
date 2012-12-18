@@ -1,0 +1,20 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Alternate Suggestions">
+ <Language Name="*Neutral*">
+  <Section Name="History">
+   <Option Name="requestXml" Value="requestXml" />
+   <Option Name="innerText,AuditException,ShouldThrowQueryExecutionExceptionWithOriginalExceptionIncluded,ShoulAuditException" Value="innerText" />
+   <Option Name="innerText,AuditException,ShouldSetAvailableReportsDictionary" Value="innerText" />
+   <Option Name="innerText,AuditException" Value="innerText" />
+   <Option Name="key,ShouldFillSubjectTypesList" Value="key" />
+   <Option Name="key,GetGlobalLocalizedText,ShouldFillStrategies,ShouldChangeCodeTypeWhenSubjectTypeChanged,ShouldFillCodeTypes,ShouldFillCountryCodes,ShouldChageRegistrationCodeView,ShouldFillDepartmentsList,ShouldFillSubjectTypesList" Value="key" />
+   <Option Name="container" Value="container" />
+   <Option Name="connector,ShouldLogException,ShouldReturnFaultForThrowingConnector,ShouldProcessMessageWithSelectedConnector,connector" Value="connector" />
+   <Option Name="connector,Add" Value="connector" />
+   <Option Name="result,ParseCancelDate,ParseRegisterDate,ParseUpdateDate" Value="result" />
+   <Option Name="phone" Value="phone" />
+   <Option Name="interceptor" Value="interceptor" />
+   <Option Name="schemas,schemas,GetContractSchemas,GetConnectorSchemas,RegisterSchemas,ExportConnectorSchemas,ExportEndpoint,ExportContract,LoadConnectorSchemas,Validate,ApplyDispatchBehavior,ApplyClientBehavior,AddBindingParameters" Value="schemas" />
+  </Section>
+ </Language>
+</Page>

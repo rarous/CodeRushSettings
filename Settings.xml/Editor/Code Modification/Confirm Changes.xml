@@ -1,0 +1,231 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Confirm Changes">
+ <Language Name="*Neutral*">
+  <Section Name="Replacement">
+   <Option Name="ShowDialog" Value="False" />
+   <Option Name="Dialog Mode" Value="Hint" />
+  </Section>
+ </Language>
+ <Language Name="Basic">
+  <Section Name="General">
+   <Option Name="Count" Value="11" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Reorder Parameters" />
+   <Option Name="F1" Value="Promote to Parameter" />
+   <Option Name="F2" Value="Rename" />
+   <Option Name="F3" Value="Remove Parameter" />
+   <Option Name="F4" Value="Convert to Tuple" />
+   <Option Name="F5" Value="Property to Method(s)" />
+   <Option Name="F6" Value="Add Parameter" />
+   <Option Name="F7" Value="Decompose Parameter" />
+   <Option Name="F8" Value="Convert to Point" />
+   <Option Name="F9" Value="Introduce Parameter Object" />
+   <Option Name="F10" Value="Method to Property" />
+  </Section>
+  <Section Name="Reorder Parameters">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Reorders+parameters+in+the+current+method%2c+and+then+updates+calling+code+to+reflect+the+new+order." />
+  </Section>
+  <Section Name="Promote to Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+all+references+to+the+field+or+a+local+declaration+from+the+method%2c+replacing+it+with+a+parameter.+Calling+code+is+adjusted+to+now+pass+in+the+field+or+expression+of+the+local+declaration+as+the+argument+for+the+new+parameter." />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+  <Section Name="Remove Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+an+unused+parameter+from+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+  <Section Name="Convert to Tuple">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+parameters+into+a+Tuple+object." />
+  </Section>
+  <Section Name="Property to Method(s)">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Converts+this+property+into+two+methods%2c+creating+a+new+function+for+the+getter%2c+and+a+new+method+for+the+setter." />
+  </Section>
+  <Section Name="Add Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Adds+a+new+parameter+to+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+  <Section Name="Decompose Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Replaces+a+single+parameter+with+one+or+more+new+parameters%2c+each+standing+in+for+a+property+access+on+the+original+parameter." />
+  </Section>
+  <Section Name="Convert to Point">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+numeric+parameters+into+a+Point+object." />
+  </Section>
+  <Section Name="Introduce Parameter Object">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+parameters+into+single+object." />
+  </Section>
+  <Section Name="Method to Property">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Creates+a+property+from+the+current+method." />
+  </Section>
+ </Language>
+ <Language Name="CC++">
+  <Section Name="General">
+   <Option Name="Count" Value="10" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Reorder Parameters" />
+   <Option Name="F1" Value="Property to Method(s)" />
+   <Option Name="F2" Value="Rename" />
+   <Option Name="F3" Value="Introduce Parameter Object" />
+   <Option Name="F4" Value="Promote to Parameter" />
+   <Option Name="F5" Value="Remove Parameter" />
+   <Option Name="F6" Value="Method to Property" />
+   <Option Name="F7" Value="Convert to Point" />
+   <Option Name="F8" Value="Decompose Parameter" />
+   <Option Name="F9" Value="Add Parameter" />
+  </Section>
+  <Section Name="Reorder Parameters">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Reorders+parameters+in+the+current+method%2c+and+then+updates+calling+code+to+reflect+the+new+order." />
+  </Section>
+  <Section Name="Property to Method(s)">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Converts+this+property+into+two+methods%2c+creating+a+new+function+for+the+getter%2c+and+a+new+method+for+the+setter." />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+  <Section Name="Introduce Parameter Object">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+parameters+into+single+object." />
+  </Section>
+  <Section Name="Promote to Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+all+references+to+the+field+or+a+local+declaration+from+the+method%2c+replacing+it+with+a+parameter.+Calling+code+is+adjusted+to+now+pass+in+the+field+or+expression+of+the+local+declaration+as+the+argument+for+the+new+parameter." />
+  </Section>
+  <Section Name="Remove Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+an+unused+parameter+from+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+  <Section Name="Method to Property">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Creates+a+property+from+the+current+method." />
+  </Section>
+  <Section Name="Convert to Point">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+numeric+parameters+into+a+Point+object." />
+  </Section>
+  <Section Name="Decompose Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Replaces+a+single+parameter+with+one+or+more+new+parameters%2c+each+standing+in+for+a+property+access+on+the+original+parameter." />
+  </Section>
+  <Section Name="Add Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Adds+a+new+parameter+to+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+ </Language>
+ <Language Name="CSharp">
+  <Section Name="General">
+   <Option Name="Count" Value="11" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Rename" />
+   <Option Name="F1" Value="Method to Property" />
+   <Option Name="F2" Value="Remove Parameter" />
+   <Option Name="F3" Value="Promote to Parameter" />
+   <Option Name="F4" Value="Convert to Tuple" />
+   <Option Name="F5" Value="Property to Method(s)" />
+   <Option Name="F6" Value="Reorder Parameters" />
+   <Option Name="F7" Value="Convert to Point" />
+   <Option Name="F8" Value="Add Parameter" />
+   <Option Name="F9" Value="Decompose Parameter" />
+   <Option Name="F10" Value="Introduce Parameter Object" />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+  <Section Name="Method to Property">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Creates+a+property+from+the+current+method." />
+  </Section>
+  <Section Name="Remove Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+an+unused+parameter+from+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+  <Section Name="Promote to Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Removes+all+references+to+the+field+or+a+local+declaration+from+the+method%2c+replacing+it+with+a+parameter.+Calling+code+is+adjusted+to+now+pass+in+the+field+or+expression+of+the+local+declaration+as+the+argument+for+the+new+parameter." />
+  </Section>
+  <Section Name="Convert to Tuple">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+parameters+into+a+Tuple+object." />
+  </Section>
+  <Section Name="Property to Method(s)">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Converts+this+property+into+two+methods%2c+creating+a+new+function+for+the+getter%2c+and+a+new+method+for+the+setter." />
+  </Section>
+  <Section Name="Reorder Parameters">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Reorders+parameters+in+the+current+method%2c+and+then+updates+calling+code+to+reflect+the+new+order." />
+  </Section>
+  <Section Name="Convert to Point">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+numeric+parameters+into+a+Point+object." />
+  </Section>
+  <Section Name="Add Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Adds+a+new+parameter+to+a+method+declaration+and+updates+all+calls+accordingly." />
+  </Section>
+  <Section Name="Decompose Parameter">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Replaces+a+single+parameter+with+one+or+more+new+parameters%2c+each+standing+in+for+a+property+access+on+the+original+parameter." />
+  </Section>
+  <Section Name="Introduce Parameter Object">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Consolidates+selected+parameters+into+single+object." />
+  </Section>
+ </Language>
+ <Language Name="JavaScript">
+  <Section Name="General">
+   <Option Name="Count" Value="1" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Rename" />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+ </Language>
+ <Language Name="None">
+  <Section Name="General">
+   <Option Name="Count" Value="0" />
+  </Section>
+ </Language>
+ <Language Name="HTML">
+  <Section Name="General">
+   <Option Name="Count" Value="1" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Rename" />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+ </Language>
+ <Language Name="Plain Text">
+  <Section Name="General">
+   <Option Name="Count" Value="1" />
+  </Section>
+  <Section Name="Fetures">
+   <Option Name="F0" Value="Rename" />
+  </Section>
+  <Section Name="Rename">
+   <Option Name="Mode" Value="Default" />
+   <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
+  </Section>
+ </Language>
+</Page>

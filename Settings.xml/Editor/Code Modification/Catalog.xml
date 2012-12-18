@@ -1,0 +1,196 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Catalog">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Count" Value="93" />
+  </Section>
+  <Section Name="CodeModsList">
+   <Option Name="ProviderName0" Value="Add AssociatedControlID Attribute" />
+   <Option Name="Enabled0" Value="True" />
+   <Option Name="ProviderName1" Value="Add Contract" />
+   <Option Name="Enabled1" Value="True" />
+   <Option Name="ProviderName2" Value="Add Default Case Branch" />
+   <Option Name="Enabled2" Value="True" />
+   <Option Name="ProviderName3" Value="Add Else Statement" />
+   <Option Name="Enabled3" Value="True" />
+   <Option Name="ProviderName4" Value="Add Getter" />
+   <Option Name="Enabled4" Value="True" />
+   <Option Name="ProviderName5" Value="Add Initialization" />
+   <Option Name="Enabled5" Value="True" />
+   <Option Name="ProviderName6" Value="Add Missing Case Statements" />
+   <Option Name="Enabled6" Value="True" />
+   <Option Name="ProviderName7" Value="Add Missing Constructors" />
+   <Option Name="Enabled7" Value="True" />
+   <Option Name="ProviderName8" Value="Add RunAt Attribute" />
+   <Option Name="Enabled8" Value="True" />
+   <Option Name="ProviderName9" Value="Add Setter" />
+   <Option Name="Enabled9" Value="True" />
+   <Option Name="ProviderName10" Value="Add to Interface" />
+   <Option Name="Enabled10" Value="True" />
+   <Option Name="ProviderName11" Value="Add Validator" />
+   <Option Name="Enabled11" Value="True" />
+   <Option Name="ProviderName12" Value="Add XML Comments" />
+   <Option Name="Enabled12" Value="True" />
+   <Option Name="ProviderName13" Value="Change Tag" />
+   <Option Name="Enabled13" Value="True" />
+   <Option Name="ProviderName14" Value="Consolidate duplicate code to:" />
+   <Option Name="Enabled14" Value="True" />
+   <Option Name="ProviderName15" Value="Convert to auto-implemented property" />
+   <Option Name="Enabled15" Value="True" />
+   <Option Name="ProviderName16" Value="Convert to Function" />
+   <Option Name="Enabled16" Value="True" />
+   <Option Name="ProviderName17" Value="Convert to Integer" />
+   <Option Name="Enabled17" Value="True" />
+   <Option Name="ProviderName18" Value="Convert to Procedure" />
+   <Option Name="Enabled18" Value="True" />
+   <Option Name="ProviderName19" Value="Convert to property with backing store" />
+   <Option Name="Enabled19" Value="True" />
+   <Option Name="ProviderName20" Value="Create Ancestor" />
+   <Option Name="Enabled20" Value="True" />
+   <Option Name="ProviderName21" Value="Create Case Blocks from Enum" />
+   <Option Name="Enabled21" Value="True" />
+   <Option Name="ProviderName22" Value="Create Descendant" />
+   <Option Name="Enabled22" Value="True" />
+   <Option Name="ProviderName23" Value="Create Descendant (with virtual overrides)" />
+   <Option Name="Enabled23" Value="True" />
+   <Option Name="ProviderName24" Value="Create Event Trigger" />
+   <Option Name="Enabled24" Value="True" />
+   <Option Name="ProviderName25" Value="Create Implementer (explicit)" />
+   <Option Name="Enabled25" Value="True" />
+   <Option Name="ProviderName26" Value="Create Implementer" />
+   <Option Name="Enabled26" Value="True" />
+   <Option Name="ProviderName27" Value="Declare Action" />
+   <Option Name="Enabled27" Value="True" />
+   <Option Name="ProviderName28" Value="Declare Attribute" />
+   <Option Name="Enabled28" Value="True" />
+   <Option Name="ProviderName29" Value="Declare Class" />
+   <Option Name="Enabled29" Value="True" />
+   <Option Name="ProviderName30" Value="Declare Class with Properties" />
+   <Option Name="Enabled30" Value="True" />
+   <Option Name="ProviderName31" Value="Declare Constructor" />
+   <Option Name="Enabled31" Value="True" />
+   <Option Name="ProviderName32" Value="Declare Controller" />
+   <Option Name="Enabled32" Value="True" />
+   <Option Name="ProviderName33" Value="Declare Controller (VS)" />
+   <Option Name="Enabled33" Value="True" />
+   <Option Name="ProviderName34" Value="Declare Delegate" />
+   <Option Name="Enabled34" Value="True" />
+   <Option Name="ProviderName35" Value="Declare Enum" />
+   <Option Name="Enabled35" Value="True" />
+   <Option Name="ProviderName36" Value="Declare Enum Element" />
+   <Option Name="Enabled36" Value="True" />
+   <Option Name="ProviderName37" Value="Declare Event" />
+   <Option Name="Enabled37" Value="True" />
+   <Option Name="ProviderName38" Value="Declare Method (Event Handler)" />
+   <Option Name="Enabled38" Value="True" />
+   <Option Name="ProviderName39" Value="Declare Event Handler" />
+   <Option Name="Enabled39" Value="True" />
+   <Option Name="ProviderName40" Value="Declare EventArgs Descendant" />
+   <Option Name="Enabled40" Value="True" />
+   <Option Name="ProviderName41" Value="Declare Field" />
+   <Option Name="Enabled41" Value="True" />
+   <Option Name="ProviderName42" Value="Declare Field (read-only)" />
+   <Option Name="Enabled42" Value="True" />
+   <Option Name="ProviderName43" Value="Declare Field with Initializer" />
+   <Option Name="Enabled43" Value="True" />
+   <Option Name="ProviderName44" Value="Declare Getter" />
+   <Option Name="Enabled44" Value="True" />
+   <Option Name="ProviderName45" Value="Declare Fields with Initializers" />
+   <Option Name="Enabled45" Value="True" />
+   <Option Name="ProviderName46" Value="Declare Properties with Initializers" />
+   <Option Name="Enabled46" Value="True" />
+   <Option Name="ProviderName47" Value="Declare Property with Initializer" />
+   <Option Name="Enabled47" Value="True" />
+   <Option Name="ProviderName48" Value="Declare Interface" />
+   <Option Name="Enabled48" Value="True" />
+   <Option Name="ProviderName49" Value="Declare Local" />
+   <Option Name="Enabled49" Value="True" />
+   <Option Name="ProviderName50" Value="Declare Local (implicit)" />
+   <Option Name="Enabled50" Value="True" />
+   <Option Name="ProviderName51" Value="Create Method Stub" />
+   <Option Name="Enabled51" Value="True" />
+   <Option Name="ProviderName52" Value="Declare Method (abstract)" />
+   <Option Name="Enabled52" Value="True" />
+   <Option Name="ProviderName53" Value="Declare Properties" />
+   <Option Name="Enabled53" Value="True" />
+   <Option Name="ProviderName54" Value="Declare Property" />
+   <Option Name="Enabled54" Value="True" />
+   <Option Name="ProviderName55" Value="Declare Property (auto-implemented)" />
+   <Option Name="Enabled55" Value="True" />
+   <Option Name="ProviderName56" Value="Declare Property (with backing store)" />
+   <Option Name="Enabled56" Value="True" />
+   <Option Name="ProviderName57" Value="Declare Setter" />
+   <Option Name="Enabled57" Value="True" />
+   <Option Name="ProviderName58" Value="Declare Struct" />
+   <Option Name="Enabled58" Value="True" />
+   <Option Name="ProviderName59" Value="Declare View" />
+   <Option Name="Enabled59" Value="True" />
+   <Option Name="ProviderName60" Value="Dispose Fields" />
+   <Option Name="Enabled60" Value="True" />
+   <Option Name="ProviderName61" Value="Embed Selection" />
+   <Option Name="Enabled61" Value="True" />
+   <Option Name="ProviderName62" Value="Format Item" />
+   <Option Name="Enabled62" Value="True" />
+   <Option Name="ProviderName63" Value="Implement IDisposable" />
+   <Option Name="Enabled63" Value="True" />
+   <Option Name="ProviderName64" Value="Introduce Setter Guard Clause" />
+   <Option Name="Enabled64" Value="True" />
+   <Option Name="ProviderName65" Value="Introduce Using Statement" />
+   <Option Name="Enabled65" Value="True" />
+   <Option Name="ProviderName66" Value="Invert Selection" />
+   <Option Name="Enabled66" Value="True" />
+   <Option Name="ProviderName67" Value="Make Member Private" />
+   <Option Name="Enabled67" Value="True" />
+   <Option Name="ProviderName68" Value="Merge Styles" />
+   <Option Name="Enabled68" Value="True" />
+   <Option Name="ProviderName69" Value="Mirror Code" />
+   <Option Name="Enabled69" Value="False" />
+   <Option Name="ProviderName70" Value="Reference Assembly" />
+   <Option Name="Enabled70" Value="True" />
+   <Option Name="ProviderName71" Value="Remove Attribute" />
+   <Option Name="Enabled71" Value="True" />
+   <Option Name="ProviderName72" Value="Remove Tag" />
+   <Option Name="Enabled72" Value="True" />
+   <Option Name="ProviderName73" Value="Remove Region Directives" />
+   <Option Name="Enabled73" Value="True" />
+   <Option Name="ProviderName74" Value="Remove Setter" />
+   <Option Name="Enabled74" Value="True" />
+   <Option Name="ProviderName75" Value="Remove Setter Guard Clause" />
+   <Option Name="Enabled75" Value="True" />
+   <Option Name="ProviderName76" Value="Replace �this� with Local Variable" />
+   <Option Name="Enabled76" Value="True" />
+   <Option Name="ProviderName77" Value="Reverse For Loop" />
+   <Option Name="Enabled77" Value="True" />
+   <Option Name="ProviderName78" Value="Rotate 90 Degrees" />
+   <Option Name="Enabled78" Value="False" />
+   <Option Name="ProviderName79" Value="Seal Class" />
+   <Option Name="Enabled79" Value="True" />
+   <Option Name="ProviderName80" Value="Set CssClass" />
+   <Option Name="Enabled80" Value="True" />
+   <Option Name="ProviderName81" Value="Spell Checker" />
+   <Option Name="Enabled81" Value="True" />
+   <Option Name="ProviderName82" Value="Split Style" />
+   <Option Name="Enabled82" Value="True" />
+   <Option Name="ProviderName83" Value="Surround with Tag" />
+   <Option Name="Enabled83" Value="True" />
+   <Option Name="ProviderName84" Value="Surround with UpdatePanel" />
+   <Option Name="Enabled84" Value="True" />
+   <Option Name="ProviderName85" Value="Toggle ViewState" />
+   <Option Name="Enabled85" Value="True" />
+   <Option Name="ProviderName86" Value="Toggle ViewState (all Controls)" />
+   <Option Name="Enabled86" Value="True" />
+   <Option Name="ProviderName87" Value="Use Equality Operator" />
+   <Option Name="Enabled87" Value="True" />
+   <Option Name="ProviderName88" Value="Use Equals" />
+   <Option Name="Enabled88" Value="True" />
+   <Option Name="ProviderName89" Value="Use Explicit Typecast" />
+   <Option Name="Enabled89" Value="True" />
+   <Option Name="ProviderName90" Value="Remove Comparison Operator" />
+   <Option Name="Enabled90" Value="True" />
+   <Option Name="ProviderName91" Value="Use Implicit Typecast" />
+   <Option Name="Enabled91" Value="True" />
+   <Option Name="ProviderName92" Value="Use IsNullOrEmpty (cp)" />
+   <Option Name="Enabled92" Value="True" />
+  </Section>
+ </Language>
+</Page>

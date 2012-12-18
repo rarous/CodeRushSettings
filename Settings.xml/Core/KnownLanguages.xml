@@ -1,0 +1,16 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="KnownLanguages">
+ <Language Name="*Neutral*">
+  <Section Name="Known Languages">
+   <Option Name="Count" Value="8" />
+   <Option Name="Item0" Value="Basic" />
+   <Option Name="Item1" Value="CSharp" />
+   <Option Name="Item2" Value="F#" />
+   <Option Name="Item3" Value="HTML" />
+   <Option Name="Item4" Value="Plain Text" />
+   <Option Name="Item5" Value="SQL Server Tools" />
+   <Option Name="Item6" Value="TypeScript" />
+   <Option Name="Item7" Value="XML" />
+  </Section>
+ </Language>
+</Page>

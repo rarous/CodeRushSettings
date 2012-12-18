@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Add Contract">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="ProvideDefaultContractMessage" Value="True" />
+  </Section>
+ </Language>
+</Page>

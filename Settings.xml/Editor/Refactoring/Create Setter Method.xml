@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Create Setter Method">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="MethodPosition" Value="UsePicker" />
+   <Option Name="ReplaceMethod" Value="Manual" />
+   <Option Name="MethodVisibility" Value="Internal" />
+   <Option Name="MethodPrefix" Value="Set" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Widen Scope">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="VariableScope" Value="IncreaseByOneLevel" />
+  </Section>
+ </Language>
+</Page>

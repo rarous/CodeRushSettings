@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Parallel Refactorings">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="ShowWaitCallPicker" Value="NotShowWhenOneLocation" />
+  </Section>
+ </Language>
+</Page>

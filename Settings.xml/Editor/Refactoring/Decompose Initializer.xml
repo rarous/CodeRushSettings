@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Decompose Initializer">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="CreateWithBlock" Value="False" />
+  </Section>
+ </Language>
+</Page>
