@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="Enabled" Value="True" />
-   <Option Name="SolutionWide" Value="False" />
+   <Option Name="SolutionWide" Value="True" />
    <Option Name="ShowProjectBar" Value="False" />
    <Option Name="ShowCodeFixHint" Value="True" />
    <Option Name="PixelsCount" Value="4" />

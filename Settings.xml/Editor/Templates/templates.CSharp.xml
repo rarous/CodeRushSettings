@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TemplateCategory Name="1-key">
+  <TemplateCategory Name="1-key" OptExpanded="true">
     <Comments>These templates are composed of a single key. If any of these templates conflict with single letter variables that you use frequently, you can move them individually to a disabled folder, or you can disable all templates in this category by clicking the green check box to the left of the "1-key" category node.</Comments>
     <Template Name="." CaseSensitiveName="false">
       <Comment>/* */ Comment</Comment>
@@ -11862,7 +11862,7 @@ public override void GetObjectData(SerializationInfo info, StreamingContext cont
       </Template>
     </TemplateCategory>
   </TemplateCategory>
-  <TemplateCategory Name="Program Blocks">
+  <TemplateCategory Name="Program Blocks" OptExpanded="true">
     <Comments>Templates in this category generate program blocks that can be used inside methods and property accessors.</Comments>
     <TemplateCategory Name="Else blocks">
       <Comments>Templates in this category generate Else blocks. Nearly all of these templates start with the letter "L". Many of these templates string together powerful combos. For example, "sn" sets the identifier on the clipboard to null. "lsn" creates the "else" keyword, and then sets the identifier on the clipboard to null.</Comments>
@@ -12638,7 +12638,6 @@ catch (Exception e)
           <Body>yield return «Caret»;</Body>
           <Context>
             <Selected>Editor\Code\InIterator</Selected>
-            <Selected>Editor\Line\OnEmptyLine</Selected>
             <Excluded>Editor\Code\InPreprocessorDirective</Excluded>
           </Context>
         </Expansion>
@@ -14256,7 +14255,7 @@ public «Class»(«Cursor»)
         </Expansion>
       </Template>
     </TemplateCategory>
-    <TemplateCategory Name="Misc">
+    <TemplateCategory Name="Misc" OptExpanded="true">
       <Template Name="#CaretPlaceholder#" CaseSensitiveName="false">
         <Expansion Priority="0">
           <Body>«Caret»</Body>

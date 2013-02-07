@@ -2,7 +2,7 @@
 <Page Name="Duplicate Code">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="UseRealTimeAnalysis" Value="False" />
+   <Option Name="UseRealTimeAnalysis" Value="True" />
    <Option Name="AnalysisLevel" Value="Level2" />
    <Option Name="TimeSpan" Value="60" />
    <Option Name="TimeSpanEnabled" Value="True" />
@@ -12,7 +12,7 @@
    <Option Name="AnalyzeOnFileAddRemove" Value="True" />
    <Option Name="AnalyzeOnProjectAddRemove" Value="True" />
    <Option Name="DrawLinks" Value="True" />
-   <Option Name="SortByConsolidationAvailability" Value="False" />
+   <Option Name="SortByConsolidationAvailability" Value="True" />
   </Section>
   <Section Name="ToolWindowOptions">
    <Option Name="ShowProjects" Value="False" />

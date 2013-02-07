@@ -8,7 +8,7 @@
    <Option Name="WindowState" Value="2" />
    <Option Name="Top" Value="155" />
    <Option Name="Left" Value="438" />
-   <Option Name="Width" Value="1428" />
+   <Option Name="Width" Value="1972" />
    <Option Name="Height" Value="1070" />
   </Section>
   <Section Name="Preferences">
@@ -16,8 +16,8 @@
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Templates" />
-   <Option Name="PriorSelectedNode" Value="IDE" />
+   <Option Name="LastSelectedNode" Value="Editor\Code Formatting\Indentation" />
+   <Option Name="PriorSelectedNode" Value="Editor\Code Formatting\Wrapping/Alignment" />
   </Section>
  </Language>
 </Page>

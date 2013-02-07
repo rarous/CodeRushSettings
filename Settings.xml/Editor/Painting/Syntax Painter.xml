@@ -1,9 +1,8 @@
 ﻿<!--This is a DXCore settings file-->
-<Page Name="Extract Style">
+<Page Name="Syntax Painter">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="StyleTypes" Value="Universal" />
-   <Option Name="StyleScopes" Value="Universal" />
+   <Option Name="UseMonoColoredBackgroundPainting" Value="True" />
   </Section>
  </Language>
 </Page>

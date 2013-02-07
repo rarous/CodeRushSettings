@@ -5,6 +5,7 @@
    <Option Name="Nav Field Active.NavField" Value="True" />
    <Option Name="Last Text Field Active.TextFields" Value="True" />
    <Option Name="Nav Link Active.NavLink" Value="True" />
+   <Option Name="Text Field Active.TextFields" Value="True" />
   </Section>
  </Language>
 </Page>

@@ -5,7 +5,7 @@
    <Option Name="EnableEditorPaint" Value="True" />
    <Option Name="EnableEditorPaintBackground" Value="True" />
    <Option Name="EnableEditorPaintForeground" Value="True" />
-   <Option Name="EnableEditorPaintLanguageElement" Value="False" />
+   <Option Name="EnableEditorPaintLanguageElement" Value="True" />
   </Section>
  </Language>
 </Page>

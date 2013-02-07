@@ -2,7 +2,7 @@
 <Page Name="Keyboard Mapping">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Opacity" Value="0,85" />
+   <Option Name="Opacity" Value="1" />
    <Option Name="BackGroundColor" Value="ARGB:255:24:61:129" />
    <Option Name="CaptionColor" Value="ARGB:255:137:228:69" />
   </Section>
@@ -286,7 +286,7 @@
    <Option Name="Description" Value="Step Into Member" />
   </Section>
   <Section Name="Group.6.2">
-   <Option Name="Command" Value="ToggleStructuralHighlighting" />
+   <Option Name="Command" Value="BookmarkToggle(3)" />
    <Option Name="Description" Value="Toggle Structural Highlighting" />
   </Section>
   <Section Name="Group.0.3">

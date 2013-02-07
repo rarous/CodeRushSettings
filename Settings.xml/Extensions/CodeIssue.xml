@@ -427,5 +427,11 @@
   <Section Name="Redundant namespace reference">
    <Option Name="Enabled" Value="True" />
   </Section>
+  <Section Name="Catch blocks that simply re-throw the same exception">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Suspicious use of 'this' qualifier">
+   <Option Name="Enabled" Value="True" />
+  </Section>
  </Language>
 </Page>

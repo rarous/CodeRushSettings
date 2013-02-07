@@ -4,7 +4,7 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="Alternative keystrokes to invoke the Refactor! command. These bindings are disabled by default. One of the bindings in this folder shows how to invoke a particular refactoring by name (just specify the name of the refactoring as it appears in the Refactor! menu in the Parameter TextBox)." />
-   <Option Name="FolderState" Value="Expanded" />
+   <Option Name="FolderState" Value="Collapsed" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="3" />

@@ -3,8 +3,8 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="ParameterAlignment" Value="WithMethod" />
-   <Option Name="ParamsCount" Value="3" />
-   <Option Name="IndentFirst" Value="False" />
+   <Option Name="ParamsCount" Value="2" />
+   <Option Name="IndentFirst" Value="True" />
   </Section>
  </Language>
 </Page>

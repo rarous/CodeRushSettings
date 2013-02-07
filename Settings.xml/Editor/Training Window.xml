@@ -1,0 +1,51 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Training Window">
+ <Language Name="*Neutral*">
+  <Section Name="Features">
+   <Option Name="GoToEdior" Value="False" />
+   <Option Name="ShowGroupingTypesColor" Value="True" />
+   <Option Name="ShowUnderlineMnemonics" Value="False" />
+   <Option Name="ShowMnemonicsForTypes" Value="False" />
+   <Option Name="FixedZoomValue" Value="-1" />
+   <Option Name="EditZoomValue" Value="100" />
+   <Option Name="Shortcuts" Value="ARGB:255:0:0:255" />
+   <Option Name="use default colorShortcuts" Value="True" />
+   <Option Name="Refactor block" Value="ARGB:255:167:17:17" />
+   <Option Name="use default colorRefactor block" Value="True" />
+   <Option Name="Code block" Value="ARGB:255:0:71:156" />
+   <Option Name="use default colorCode block" Value="True" />
+   <Option Name="Jump To block" Value="ARGB:255:62:118:0" />
+   <Option Name="use default colorJump To block" Value="True" />
+   <Option Name="Shortcuts block" Value="ARGB:255:152:72:6" />
+   <Option Name="use default colorShortcuts block" Value="True" />
+   <Option Name="Refactor block caption" Value="ARGB:255:213:137:135" />
+   <Option Name="use default colorRefactor block caption" Value="True" />
+   <Option Name="Code block caption" Value="ARGB:255:149:179:215" />
+   <Option Name="use default colorCode block caption" Value="True" />
+   <Option Name="Jump To block caption" Value="ARGB:255:165:199:127" />
+   <Option Name="use default colorJump To block caption" Value="True" />
+   <Option Name="Shortcuts block caption" Value="ARGB:255:213:177:167" />
+   <Option Name="use default colorShortcuts block caption" Value="True" />
+   <Option Name="Refactor!" Value="True" />
+   <Option Name="Code!" Value="True" />
+   <Option Name="Jump to" Value="True" />
+   <Option Name="ShowShortcuts" Value="True" />
+  </Section>
+  <Section Name="Templates">
+   <Option Name="Typed part" Value="Named:Gray" />
+   <Option Name="use default colorTyped part" Value="True" />
+   <Option Name="Continue part" Value="Named:Black" />
+   <Option Name="use default colorContinue part" Value="True" />
+   <Option Name="Description" Value="Named:CornflowerBlue" />
+   <Option Name="use default colorDescription" Value="True" />
+   <Option Name="Dynamic type letter" Value="Named:Black" />
+   <Option Name="use default colorDynamic type letter" Value="True" />
+   <Option Name="Mnemonic letter" Value="Named:Red" />
+   <Option Name="use default colorMnemonic letter" Value="True" />
+   <Option Name="Dynamic type letter(opt)" Value="Named:Gray" />
+   <Option Name="use default colorDynamic type letter(opt)" Value="True" />
+   <Option Name="Mnemonic letter(opt)" Value="Named:Pink" />
+   <Option Name="use default colorMnemonic letter(opt)" Value="True" />
+  </Section>
+ </Language>
+</Page>

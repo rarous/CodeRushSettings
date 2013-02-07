@@ -210,7 +210,7 @@
    <Option Name="Background" Value="2166796" />
    <Option Name="Foreground" Value="16316664" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Selected Text">
    <Option Name="LocalName" Value="Selected Text" />

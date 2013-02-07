@@ -30,59 +30,59 @@
   </Section>
   <Section Name="Make variable Implicit">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="6" />
+   <Option Name="Index" Value="7" />
   </Section>
   <Section Name="Convert &quot;&quot; to string.Empty">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="7" />
+   <Option Name="Index" Value="8" />
   </Section>
   <Section Name="Remove all comments, excluding XML comments">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="8" />
+   <Option Name="Index" Value="9" />
   </Section>
   <Section Name="Remove all regions">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="9" />
+   <Option Name="Index" Value="10" />
   </Section>
   <Section Name="Remove redundant &quot;base&quot; qualifier">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="10" />
+   <Option Name="Index" Value="11" />
   </Section>
   <Section Name="Remove redundant &quot;this&quot; qualifier">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="11" />
+   <Option Name="Index" Value="12" />
   </Section>
   <Section Name="Remove unreachable code">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="12" />
+   <Option Name="Index" Value="13" />
   </Section>
   <Section Name="Remove unused namespace references">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="13" />
+   <Option Name="Index" Value="14" />
   </Section>
   <Section Name="Remove unused variables">
    <Option Name="Value" Value="True" />
-   <Option Name="Index" Value="14" />
+   <Option Name="Index" Value="15" />
   </Section>
   <Section Name="Remove user blocks">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="15" />
+   <Option Name="Index" Value="16" />
   </Section>
   <Section Name="Sort enum elements">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="16" />
+   <Option Name="Index" Value="17" />
   </Section>
   <Section Name="Use explicit internal modifier">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="17" />
+   <Option Name="Index" Value="18" />
   </Section>
   <Section Name="Use explicit private modifier">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="18" />
+   <Option Name="Index" Value="19" />
   </Section>
   <Section Name="Organize members">
    <Option Name="Value" Value="False" />
-   <Option Name="Index" Value="5" />
+   <Option Name="Index" Value="6" />
   </Section>
   <Section Name="OrganizeMembers_File">
    <Option Name="CountEmptyLinesBetweenGroups" Value="1" />

@@ -2,7 +2,7 @@
 <Page Name="Catalog">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Count" Value="143" />
+   <Option Name="Count" Value="145" />
   </Section>
   <Section Name="CodeIssuesList">
    <Option Name="ProviderName0" Value="Abstract member cannot be declared in nonabstract class" />
@@ -291,6 +291,588 @@
    <Option Name="Enabled141" Value="True" />
    <Option Name="ProviderName142" Value="Virtual member cannot be private" />
    <Option Name="Enabled142" Value="True" />
+   <Option Name="IssueType0" Value="Error" />
+   <Option Name="MetricType0" Value="None" />
+   <Option Name="Metric Weight0" Value="0" />
+   <Option Name="Disabled Languages0_Count" Value="0" />
+   <Option Name="IssueType1" Value="Error" />
+   <Option Name="MetricType1" Value="None" />
+   <Option Name="Metric Weight1" Value="0" />
+   <Option Name="Disabled Languages1_Count" Value="0" />
+   <Option Name="IssueType2" Value="Error" />
+   <Option Name="MetricType2" Value="None" />
+   <Option Name="Metric Weight2" Value="0" />
+   <Option Name="Disabled Languages2_Count" Value="0" />
+   <Option Name="IssueType3" Value="Error" />
+   <Option Name="MetricType3" Value="None" />
+   <Option Name="Metric Weight3" Value="0" />
+   <Option Name="Disabled Languages3_Count" Value="0" />
+   <Option Name="IssueType4" Value="Error" />
+   <Option Name="MetricType4" Value="None" />
+   <Option Name="Metric Weight4" Value="0" />
+   <Option Name="Disabled Languages4_Count" Value="0" />
+   <Option Name="IssueType5" Value="Error" />
+   <Option Name="MetricType5" Value="None" />
+   <Option Name="Metric Weight5" Value="0" />
+   <Option Name="Disabled Languages5_Count" Value="0" />
+   <Option Name="IssueType6" Value="Error" />
+   <Option Name="MetricType6" Value="None" />
+   <Option Name="Metric Weight6" Value="0" />
+   <Option Name="Disabled Languages6_Count" Value="0" />
+   <Option Name="IssueType7" Value="DeadCode" />
+   <Option Name="MetricType7" Value="None" />
+   <Option Name="Metric Weight7" Value="0" />
+   <Option Name="Disabled Languages7_Count" Value="0" />
+   <Option Name="IssueType8" Value="Error" />
+   <Option Name="MetricType8" Value="None" />
+   <Option Name="Metric Weight8" Value="0" />
+   <Option Name="Disabled Languages8_Count" Value="0" />
+   <Option Name="IssueType9" Value="Hint" />
+   <Option Name="MetricType9" Value="QualityDebt" />
+   <Option Name="Metric Weight9" Value="5" />
+   <Option Name="Disabled Languages9_Count" Value="0" />
+   <Option Name="IssueType10" Value="Warning" />
+   <Option Name="MetricType10" Value="None" />
+   <Option Name="Metric Weight10" Value="0" />
+   <Option Name="Disabled Languages10_Count" Value="0" />
+   <Option Name="IssueType11" Value="Hint" />
+   <Option Name="MetricType11" Value="QualityDebt" />
+   <Option Name="Metric Weight11" Value="20" />
+   <Option Name="Disabled Languages11_Count" Value="0" />
+   <Option Name="IssueType12" Value="Hint" />
+   <Option Name="MetricType12" Value="None" />
+   <Option Name="Metric Weight12" Value="0" />
+   <Option Name="Disabled Languages12_Count" Value="0" />
+   <Option Name="IssueType13" Value="Hint" />
+   <Option Name="MetricType13" Value="QualityDebt" />
+   <Option Name="Metric Weight13" Value="5" />
+   <Option Name="Disabled Languages13_Count" Value="0" />
+   <Option Name="IssueType14" Value="DeadCode" />
+   <Option Name="MetricType14" Value="RedundancyIndex" />
+   <Option Name="Metric Weight14" Value="15" />
+   <Option Name="Disabled Languages14_Count" Value="0" />
+   <Option Name="IssueType15" Value="Error" />
+   <Option Name="MetricType15" Value="None" />
+   <Option Name="Metric Weight15" Value="0" />
+   <Option Name="Disabled Languages15_Count" Value="0" />
+   <Option Name="IssueType16" Value="Error" />
+   <Option Name="MetricType16" Value="None" />
+   <Option Name="Metric Weight16" Value="0" />
+   <Option Name="Disabled Languages16_Count" Value="0" />
+   <Option Name="IssueType17" Value="Error" />
+   <Option Name="MetricType17" Value="None" />
+   <Option Name="Metric Weight17" Value="0" />
+   <Option Name="Disabled Languages17_Count" Value="0" />
+   <Option Name="IssueType18" Value="Error" />
+   <Option Name="MetricType18" Value="None" />
+   <Option Name="Metric Weight18" Value="0" />
+   <Option Name="Disabled Languages18_Count" Value="0" />
+   <Option Name="IssueType19" Value="Error" />
+   <Option Name="MetricType19" Value="None" />
+   <Option Name="Metric Weight19" Value="0" />
+   <Option Name="Disabled Languages19_Count" Value="0" />
+   <Option Name="IssueType20" Value="Error" />
+   <Option Name="MetricType20" Value="None" />
+   <Option Name="Metric Weight20" Value="0" />
+   <Option Name="Disabled Languages20_Count" Value="0" />
+   <Option Name="IssueType21" Value="Error" />
+   <Option Name="MetricType21" Value="None" />
+   <Option Name="Metric Weight21" Value="0" />
+   <Option Name="Disabled Languages21_Count" Value="0" />
+   <Option Name="IssueType22" Value="Error" />
+   <Option Name="MetricType22" Value="None" />
+   <Option Name="Metric Weight22" Value="0" />
+   <Option Name="Disabled Languages22_Count" Value="0" />
+   <Option Name="IssueType23" Value="Error" />
+   <Option Name="MetricType23" Value="None" />
+   <Option Name="Metric Weight23" Value="0" />
+   <Option Name="Disabled Languages23_Count" Value="0" />
+   <Option Name="IssueType24" Value="Error" />
+   <Option Name="MetricType24" Value="None" />
+   <Option Name="Metric Weight24" Value="0" />
+   <Option Name="Disabled Languages24_Count" Value="0" />
+   <Option Name="IssueType25" Value="Error" />
+   <Option Name="MetricType25" Value="None" />
+   <Option Name="Metric Weight25" Value="0" />
+   <Option Name="Disabled Languages25_Count" Value="0" />
+   <Option Name="IssueType26" Value="Error" />
+   <Option Name="MetricType26" Value="None" />
+   <Option Name="Metric Weight26" Value="0" />
+   <Option Name="Disabled Languages26_Count" Value="0" />
+   <Option Name="IssueType27" Value="Error" />
+   <Option Name="MetricType27" Value="None" />
+   <Option Name="Metric Weight27" Value="50" />
+   <Option Name="Disabled Languages27_Count" Value="0" />
+   <Option Name="IssueType28" Value="Hint" />
+   <Option Name="MetricType28" Value="QualityDebt" />
+   <Option Name="Metric Weight28" Value="20" />
+   <Option Name="Disabled Languages28_Count" Value="0" />
+   <Option Name="IssueType29" Value="Warning" />
+   <Option Name="MetricType29" Value="None" />
+   <Option Name="Metric Weight29" Value="0" />
+   <Option Name="Disabled Languages29_Count" Value="0" />
+   <Option Name="IssueType30" Value="None" />
+   <Option Name="MetricType30" Value="None" />
+   <Option Name="Metric Weight30" Value="0" />
+   <Option Name="Disabled Languages30_Count" Value="0" />
+   <Option Name="IssueType31" Value="CodeSmell" />
+   <Option Name="MetricType31" Value="None" />
+   <Option Name="Metric Weight31" Value="0" />
+   <Option Name="Disabled Languages31_Count" Value="0" />
+   <Option Name="IssueType32" Value="Error" />
+   <Option Name="MetricType32" Value="None" />
+   <Option Name="Metric Weight32" Value="0" />
+   <Option Name="Disabled Languages32_Count" Value="0" />
+   <Option Name="IssueType33" Value="Error" />
+   <Option Name="MetricType33" Value="None" />
+   <Option Name="Metric Weight33" Value="0" />
+   <Option Name="Disabled Languages33_Count" Value="0" />
+   <Option Name="IssueType34" Value="Error" />
+   <Option Name="MetricType34" Value="None" />
+   <Option Name="Metric Weight34" Value="0" />
+   <Option Name="Disabled Languages34_Count" Value="0" />
+   <Option Name="IssueType35" Value="Error" />
+   <Option Name="MetricType35" Value="None" />
+   <Option Name="Metric Weight35" Value="0" />
+   <Option Name="Disabled Languages35_Count" Value="0" />
+   <Option Name="IssueType36" Value="Hint" />
+   <Option Name="MetricType36" Value="QualityDebt" />
+   <Option Name="Metric Weight36" Value="5" />
+   <Option Name="Disabled Languages36_Count" Value="0" />
+   <Option Name="IssueType37" Value="Hint" />
+   <Option Name="MetricType37" Value="None" />
+   <Option Name="Metric Weight37" Value="0" />
+   <Option Name="Disabled Languages37_Count" Value="0" />
+   <Option Name="IssueType38" Value="Hint" />
+   <Option Name="MetricType38" Value="QualityDebt" />
+   <Option Name="Metric Weight38" Value="15" />
+   <Option Name="Disabled Languages38_Count" Value="0" />
+   <Option Name="IssueType39" Value="Error" />
+   <Option Name="MetricType39" Value="None" />
+   <Option Name="Metric Weight39" Value="0" />
+   <Option Name="Disabled Languages39_Count" Value="0" />
+   <Option Name="IssueType40" Value="Error" />
+   <Option Name="MetricType40" Value="None" />
+   <Option Name="Metric Weight40" Value="0" />
+   <Option Name="Disabled Languages40_Count" Value="0" />
+   <Option Name="IssueType41" Value="Hint" />
+   <Option Name="MetricType41" Value="None" />
+   <Option Name="Metric Weight41" Value="0" />
+   <Option Name="Disabled Languages41_Count" Value="0" />
+   <Option Name="IssueType42" Value="Hint" />
+   <Option Name="MetricType42" Value="None" />
+   <Option Name="Metric Weight42" Value="0" />
+   <Option Name="Disabled Languages42_Count" Value="0" />
+   <Option Name="IssueType43" Value="DuplicateCode" />
+   <Option Name="MetricType43" Value="None" />
+   <Option Name="Metric Weight43" Value="0" />
+   <Option Name="Disabled Languages43_Count" Value="0" />
+   <Option Name="IssueType44" Value="DeadCode" />
+   <Option Name="MetricType44" Value="RedundancyIndex" />
+   <Option Name="Metric Weight44" Value="30" />
+   <Option Name="Disabled Languages44_Count" Value="0" />
+   <Option Name="IssueType45" Value="DeadCode" />
+   <Option Name="MetricType45" Value="RedundancyIndex" />
+   <Option Name="Metric Weight45" Value="10" />
+   <Option Name="Disabled Languages45_Count" Value="0" />
+   <Option Name="IssueType46" Value="DeadCode" />
+   <Option Name="MetricType46" Value="RedundancyIndex" />
+   <Option Name="Metric Weight46" Value="50" />
+   <Option Name="Disabled Languages46_Count" Value="0" />
+   <Option Name="IssueType47" Value="DeadCode" />
+   <Option Name="MetricType47" Value="RedundancyIndex" />
+   <Option Name="Metric Weight47" Value="10" />
+   <Option Name="Disabled Languages47_Count" Value="0" />
+   <Option Name="IssueType48" Value="Hint" />
+   <Option Name="MetricType48" Value="QualityDebt" />
+   <Option Name="Metric Weight48" Value="5" />
+   <Option Name="Disabled Languages48_Count" Value="0" />
+   <Option Name="IssueType49" Value="Error" />
+   <Option Name="MetricType49" Value="None" />
+   <Option Name="Metric Weight49" Value="0" />
+   <Option Name="Disabled Languages49_Count" Value="0" />
+   <Option Name="IssueType50" Value="Error" />
+   <Option Name="MetricType50" Value="None" />
+   <Option Name="Metric Weight50" Value="0" />
+   <Option Name="Disabled Languages50_Count" Value="0" />
+   <Option Name="IssueType51" Value="Error" />
+   <Option Name="MetricType51" Value="None" />
+   <Option Name="Metric Weight51" Value="0" />
+   <Option Name="Disabled Languages51_Count" Value="0" />
+   <Option Name="IssueType52" Value="Error" />
+   <Option Name="MetricType52" Value="None" />
+   <Option Name="Metric Weight52" Value="0" />
+   <Option Name="Disabled Languages52_Count" Value="0" />
+   <Option Name="IssueType53" Value="Error" />
+   <Option Name="MetricType53" Value="None" />
+   <Option Name="Metric Weight53" Value="0" />
+   <Option Name="Disabled Languages53_Count" Value="0" />
+   <Option Name="IssueType54" Value="Hint" />
+   <Option Name="MetricType54" Value="QualityDebt" />
+   <Option Name="Metric Weight54" Value="5" />
+   <Option Name="Disabled Languages54_Count" Value="0" />
+   <Option Name="IssueType55" Value="Warning" />
+   <Option Name="MetricType55" Value="None" />
+   <Option Name="Metric Weight55" Value="0" />
+   <Option Name="Disabled Languages55_Count" Value="0" />
+   <Option Name="IssueType56" Value="Hint" />
+   <Option Name="MetricType56" Value="QualityDebt" />
+   <Option Name="Metric Weight56" Value="15" />
+   <Option Name="Disabled Languages56_Count" Value="0" />
+   <Option Name="IssueType57" Value="None" />
+   <Option Name="MetricType57" Value="None" />
+   <Option Name="Metric Weight57" Value="0" />
+   <Option Name="Disabled Languages57_Count" Value="0" />
+   <Option Name="IssueType58" Value="Error" />
+   <Option Name="MetricType58" Value="None" />
+   <Option Name="Metric Weight58" Value="0" />
+   <Option Name="Disabled Languages58_Count" Value="0" />
+   <Option Name="IssueType59" Value="Hint" />
+   <Option Name="MetricType59" Value="None" />
+   <Option Name="Metric Weight59" Value="0" />
+   <Option Name="Disabled Languages59_Count" Value="0" />
+   <Option Name="IssueType60" Value="Hint" />
+   <Option Name="MetricType60" Value="QualityDebt" />
+   <Option Name="Metric Weight60" Value="5" />
+   <Option Name="Disabled Languages60_Count" Value="0" />
+   <Option Name="IssueType61" Value="Error" />
+   <Option Name="MetricType61" Value="None" />
+   <Option Name="Metric Weight61" Value="0" />
+   <Option Name="Disabled Languages61_Count" Value="0" />
+   <Option Name="IssueType62" Value="Hint" />
+   <Option Name="MetricType62" Value="QualityDebt" />
+   <Option Name="Metric Weight62" Value="5" />
+   <Option Name="Disabled Languages62_Count" Value="0" />
+   <Option Name="IssueType63" Value="Error" />
+   <Option Name="MetricType63" Value="None" />
+   <Option Name="Metric Weight63" Value="0" />
+   <Option Name="Disabled Languages63_Count" Value="0" />
+   <Option Name="IssueType64" Value="Error" />
+   <Option Name="MetricType64" Value="None" />
+   <Option Name="Metric Weight64" Value="0" />
+   <Option Name="Disabled Languages64_Count" Value="0" />
+   <Option Name="IssueType65" Value="Error" />
+   <Option Name="MetricType65" Value="None" />
+   <Option Name="Metric Weight65" Value="0" />
+   <Option Name="Disabled Languages65_Count" Value="0" />
+   <Option Name="IssueType66" Value="Error" />
+   <Option Name="MetricType66" Value="None" />
+   <Option Name="Metric Weight66" Value="0" />
+   <Option Name="Disabled Languages66_Count" Value="0" />
+   <Option Name="IssueType67" Value="Error" />
+   <Option Name="MetricType67" Value="None" />
+   <Option Name="Metric Weight67" Value="0" />
+   <Option Name="Disabled Languages67_Count" Value="0" />
+   <Option Name="IssueType68" Value="Error" />
+   <Option Name="MetricType68" Value="None" />
+   <Option Name="Metric Weight68" Value="0" />
+   <Option Name="Disabled Languages68_Count" Value="0" />
+   <Option Name="IssueType69" Value="Error" />
+   <Option Name="MetricType69" Value="None" />
+   <Option Name="Metric Weight69" Value="0" />
+   <Option Name="Disabled Languages69_Count" Value="0" />
+   <Option Name="IssueType70" Value="DeadCode" />
+   <Option Name="MetricType70" Value="None" />
+   <Option Name="Metric Weight70" Value="0" />
+   <Option Name="Disabled Languages70_Count" Value="0" />
+   <Option Name="IssueType71" Value="Hint" />
+   <Option Name="MetricType71" Value="QualityDebt" />
+   <Option Name="Metric Weight71" Value="10" />
+   <Option Name="Disabled Languages71_Count" Value="0" />
+   <Option Name="IssueType72" Value="Error" />
+   <Option Name="MetricType72" Value="None" />
+   <Option Name="Metric Weight72" Value="0" />
+   <Option Name="Disabled Languages72_Count" Value="0" />
+   <Option Name="IssueType73" Value="Warning" />
+   <Option Name="MetricType73" Value="QualityDebt" />
+   <Option Name="Metric Weight73" Value="20" />
+   <Option Name="Disabled Languages73_Count" Value="0" />
+   <Option Name="IssueType74" Value="Error" />
+   <Option Name="MetricType74" Value="None" />
+   <Option Name="Metric Weight74" Value="0" />
+   <Option Name="Disabled Languages74_Count" Value="0" />
+   <Option Name="IssueType75" Value="Error" />
+   <Option Name="MetricType75" Value="None" />
+   <Option Name="Metric Weight75" Value="0" />
+   <Option Name="Disabled Languages75_Count" Value="0" />
+   <Option Name="IssueType76" Value="Error" />
+   <Option Name="MetricType76" Value="None" />
+   <Option Name="Metric Weight76" Value="0" />
+   <Option Name="Disabled Languages76_Count" Value="0" />
+   <Option Name="IssueType77" Value="Hint" />
+   <Option Name="MetricType77" Value="QualityDebt" />
+   <Option Name="Metric Weight77" Value="10" />
+   <Option Name="Disabled Languages77_Count" Value="0" />
+   <Option Name="IssueType78" Value="Hint" />
+   <Option Name="MetricType78" Value="QualityDebt" />
+   <Option Name="Metric Weight78" Value="15" />
+   <Option Name="Disabled Languages78_Count" Value="0" />
+   <Option Name="IssueType79" Value="Error" />
+   <Option Name="MetricType79" Value="None" />
+   <Option Name="Metric Weight79" Value="0" />
+   <Option Name="Disabled Languages79_Count" Value="0" />
+   <Option Name="IssueType80" Value="Error" />
+   <Option Name="MetricType80" Value="None" />
+   <Option Name="Metric Weight80" Value="0" />
+   <Option Name="Disabled Languages80_Count" Value="0" />
+   <Option Name="IssueType81" Value="Error" />
+   <Option Name="MetricType81" Value="None" />
+   <Option Name="Metric Weight81" Value="0" />
+   <Option Name="Disabled Languages81_Count" Value="0" />
+   <Option Name="IssueType82" Value="Error" />
+   <Option Name="MetricType82" Value="None" />
+   <Option Name="Metric Weight82" Value="0" />
+   <Option Name="Disabled Languages82_Count" Value="0" />
+   <Option Name="IssueType83" Value="Error" />
+   <Option Name="MetricType83" Value="None" />
+   <Option Name="Metric Weight83" Value="0" />
+   <Option Name="Disabled Languages83_Count" Value="0" />
+   <Option Name="IssueType84" Value="Error" />
+   <Option Name="MetricType84" Value="None" />
+   <Option Name="Metric Weight84" Value="0" />
+   <Option Name="Disabled Languages84_Count" Value="0" />
+   <Option Name="IssueType85" Value="Error" />
+   <Option Name="MetricType85" Value="None" />
+   <Option Name="Metric Weight85" Value="0" />
+   <Option Name="Disabled Languages85_Count" Value="0" />
+   <Option Name="IssueType86" Value="Error" />
+   <Option Name="MetricType86" Value="None" />
+   <Option Name="Metric Weight86" Value="0" />
+   <Option Name="Disabled Languages86_Count" Value="0" />
+   <Option Name="IssueType87" Value="Error" />
+   <Option Name="MetricType87" Value="None" />
+   <Option Name="Metric Weight87" Value="0" />
+   <Option Name="Disabled Languages87_Count" Value="0" />
+   <Option Name="IssueType88" Value="Error" />
+   <Option Name="MetricType88" Value="None" />
+   <Option Name="Metric Weight88" Value="0" />
+   <Option Name="Disabled Languages88_Count" Value="0" />
+   <Option Name="IssueType89" Value="DeadCode" />
+   <Option Name="MetricType89" Value="RedundancyIndex" />
+   <Option Name="Metric Weight89" Value="50" />
+   <Option Name="Disabled Languages89_Count" Value="0" />
+   <Option Name="IssueType90" Value="Error" />
+   <Option Name="MetricType90" Value="None" />
+   <Option Name="Metric Weight90" Value="0" />
+   <Option Name="Disabled Languages90_Count" Value="0" />
+   <Option Name="IssueType91" Value="Error" />
+   <Option Name="MetricType91" Value="None" />
+   <Option Name="Metric Weight91" Value="0" />
+   <Option Name="Disabled Languages91_Count" Value="0" />
+   <Option Name="IssueType92" Value="Hint" />
+   <Option Name="MetricType92" Value="RedundancyIndex" />
+   <Option Name="Metric Weight92" Value="40" />
+   <Option Name="Disabled Languages92_Count" Value="0" />
+   <Option Name="IssueType93" Value="Error" />
+   <Option Name="MetricType93" Value="None" />
+   <Option Name="Metric Weight93" Value="0" />
+   <Option Name="Disabled Languages93_Count" Value="0" />
+   <Option Name="IssueType94" Value="Hint" />
+   <Option Name="MetricType94" Value="None" />
+   <Option Name="Metric Weight94" Value="0" />
+   <Option Name="Disabled Languages94_Count" Value="0" />
+   <Option Name="IssueType95" Value="Hint" />
+   <Option Name="MetricType95" Value="RedundancyIndex" />
+   <Option Name="Metric Weight95" Value="20" />
+   <Option Name="Disabled Languages95_Count" Value="0" />
+   <Option Name="IssueType96" Value="Error" />
+   <Option Name="MetricType96" Value="None" />
+   <Option Name="Metric Weight96" Value="0" />
+   <Option Name="Disabled Languages96_Count" Value="0" />
+   <Option Name="IssueType97" Value="Error" />
+   <Option Name="MetricType97" Value="None" />
+   <Option Name="Metric Weight97" Value="0" />
+   <Option Name="Disabled Languages97_Count" Value="0" />
+   <Option Name="IssueType98" Value="Warning" />
+   <Option Name="MetricType98" Value="None" />
+   <Option Name="Metric Weight98" Value="0" />
+   <Option Name="Disabled Languages98_Count" Value="0" />
+   <Option Name="IssueType99" Value="DeadCode" />
+   <Option Name="MetricType99" Value="RedundancyIndex" />
+   <Option Name="Metric Weight99" Value="10" />
+   <Option Name="Disabled Languages99_Count" Value="0" />
+   <Option Name="IssueType100" Value="DeadCode" />
+   <Option Name="MetricType100" Value="RedundancyIndex" />
+   <Option Name="Metric Weight100" Value="5" />
+   <Option Name="Disabled Languages100_Count" Value="0" />
+   <Option Name="IssueType101" Value="Hint" />
+   <Option Name="MetricType101" Value="RedundancyIndex" />
+   <Option Name="Metric Weight101" Value="10" />
+   <Option Name="Disabled Languages101_Count" Value="0" />
+   <Option Name="IssueType102" Value="Hint" />
+   <Option Name="MetricType102" Value="RedundancyIndex" />
+   <Option Name="Metric Weight102" Value="5" />
+   <Option Name="Disabled Languages102_Count" Value="0" />
+   <Option Name="IssueType103" Value="DeadCode" />
+   <Option Name="MetricType103" Value="RedundancyIndex" />
+   <Option Name="Metric Weight103" Value="10" />
+   <Option Name="Disabled Languages103_Count" Value="0" />
+   <Option Name="IssueType104" Value="DeadCode" />
+   <Option Name="MetricType104" Value="RedundancyIndex" />
+   <Option Name="Metric Weight104" Value="15" />
+   <Option Name="Disabled Languages104_Count" Value="0" />
+   <Option Name="IssueType105" Value="DeadCode" />
+   <Option Name="MetricType105" Value="RedundancyIndex" />
+   <Option Name="Metric Weight105" Value="5" />
+   <Option Name="Disabled Languages105_Count" Value="0" />
+   <Option Name="IssueType106" Value="DeadCode" />
+   <Option Name="MetricType106" Value="None" />
+   <Option Name="Metric Weight106" Value="0" />
+   <Option Name="Disabled Languages106_Count" Value="0" />
+   <Option Name="IssueType107" Value="DeadCode" />
+   <Option Name="MetricType107" Value="RedundancyIndex" />
+   <Option Name="Metric Weight107" Value="10" />
+   <Option Name="Disabled Languages107_Count" Value="0" />
+   <Option Name="IssueType108" Value="Hint" />
+   <Option Name="MetricType108" Value="RedundancyIndex" />
+   <Option Name="Metric Weight108" Value="5" />
+   <Option Name="Disabled Languages108_Count" Value="0" />
+   <Option Name="IssueType109" Value="DeadCode" />
+   <Option Name="MetricType109" Value="RedundancyIndex" />
+   <Option Name="Metric Weight109" Value="15" />
+   <Option Name="Disabled Languages109_Count" Value="0" />
+   <Option Name="IssueType110" Value="DeadCode" />
+   <Option Name="MetricType110" Value="RedundancyIndex" />
+   <Option Name="Metric Weight110" Value="5" />
+   <Option Name="Disabled Languages110_Count" Value="0" />
+   <Option Name="IssueType111" Value="DeadCode" />
+   <Option Name="MetricType111" Value="RedundancyIndex" />
+   <Option Name="Metric Weight111" Value="10" />
+   <Option Name="Disabled Languages111_Count" Value="0" />
+   <Option Name="IssueType112" Value="DeadCode" />
+   <Option Name="MetricType112" Value="RedundancyIndex" />
+   <Option Name="Metric Weight112" Value="8" />
+   <Option Name="Disabled Languages112_Count" Value="0" />
+   <Option Name="IssueType113" Value="DeadCode" />
+   <Option Name="MetricType113" Value="RedundancyIndex" />
+   <Option Name="Metric Weight113" Value="5" />
+   <Option Name="Disabled Languages113_Count" Value="0" />
+   <Option Name="IssueType114" Value="Error" />
+   <Option Name="MetricType114" Value="None" />
+   <Option Name="Metric Weight114" Value="0" />
+   <Option Name="Disabled Languages114_Count" Value="0" />
+   <Option Name="IssueType115" Value="Hint" />
+   <Option Name="MetricType115" Value="None" />
+   <Option Name="Metric Weight115" Value="0" />
+   <Option Name="Disabled Languages115_Count" Value="0" />
+   <Option Name="IssueType116" Value="Error" />
+   <Option Name="MetricType116" Value="None" />
+   <Option Name="Metric Weight116" Value="0" />
+   <Option Name="Disabled Languages116_Count" Value="0" />
+   <Option Name="IssueType117" Value="Error" />
+   <Option Name="MetricType117" Value="None" />
+   <Option Name="Metric Weight117" Value="0" />
+   <Option Name="Disabled Languages117_Count" Value="0" />
+   <Option Name="IssueType118" Value="Error" />
+   <Option Name="MetricType118" Value="None" />
+   <Option Name="Metric Weight118" Value="0" />
+   <Option Name="Disabled Languages118_Count" Value="0" />
+   <Option Name="IssueType119" Value="Error" />
+   <Option Name="MetricType119" Value="None" />
+   <Option Name="Metric Weight119" Value="0" />
+   <Option Name="Disabled Languages119_Count" Value="0" />
+   <Option Name="IssueType120" Value="Error" />
+   <Option Name="MetricType120" Value="None" />
+   <Option Name="Metric Weight120" Value="0" />
+   <Option Name="Disabled Languages120_Count" Value="0" />
+   <Option Name="IssueType121" Value="Hint" />
+   <Option Name="MetricType121" Value="QualityDebt" />
+   <Option Name="Metric Weight121" Value="5" />
+   <Option Name="Disabled Languages121_Count" Value="0" />
+   <Option Name="IssueType122" Value="Hint" />
+   <Option Name="MetricType122" Value="QualityDebt" />
+   <Option Name="Metric Weight122" Value="5" />
+   <Option Name="Disabled Languages122_Count" Value="0" />
+   <Option Name="IssueType123" Value="Error" />
+   <Option Name="MetricType123" Value="None" />
+   <Option Name="Metric Weight123" Value="0" />
+   <Option Name="Disabled Languages123_Count" Value="0" />
+   <Option Name="IssueType124" Value="Hint" />
+   <Option Name="MetricType124" Value="None" />
+   <Option Name="Metric Weight124" Value="0" />
+   <Option Name="Disabled Languages124_Count" Value="0" />
+   <Option Name="IssueType125" Value="Hint" />
+   <Option Name="MetricType125" Value="None" />
+   <Option Name="Metric Weight125" Value="0" />
+   <Option Name="Disabled Languages125_Count" Value="0" />
+   <Option Name="IssueType126" Value="None" />
+   <Option Name="MetricType126" Value="None" />
+   <Option Name="Metric Weight126" Value="0" />
+   <Option Name="Disabled Languages126_Count" Value="0" />
+   <Option Name="IssueType127" Value="Hint" />
+   <Option Name="MetricType127" Value="QualityDebt" />
+   <Option Name="Metric Weight127" Value="5" />
+   <Option Name="Disabled Languages127_Count" Value="0" />
+   <Option Name="IssueType128" Value="Error" />
+   <Option Name="MetricType128" Value="None" />
+   <Option Name="Metric Weight128" Value="0" />
+   <Option Name="Disabled Languages128_Count" Value="0" />
+   <Option Name="IssueType129" Value="Error" />
+   <Option Name="MetricType129" Value="None" />
+   <Option Name="Metric Weight129" Value="0" />
+   <Option Name="Disabled Languages129_Count" Value="0" />
+   <Option Name="IssueType130" Value="Error" />
+   <Option Name="MetricType130" Value="None" />
+   <Option Name="Metric Weight130" Value="0" />
+   <Option Name="Disabled Languages130_Count" Value="0" />
+   <Option Name="IssueType131" Value="Hint" />
+   <Option Name="MetricType131" Value="QualityDebt" />
+   <Option Name="Metric Weight131" Value="5" />
+   <Option Name="Disabled Languages131_Count" Value="0" />
+   <Option Name="IssueType132" Value="Hint" />
+   <Option Name="MetricType132" Value="QualityDebt" />
+   <Option Name="Metric Weight132" Value="20" />
+   <Option Name="Disabled Languages132_Count" Value="0" />
+   <Option Name="IssueType133" Value="Error" />
+   <Option Name="MetricType133" Value="None" />
+   <Option Name="Metric Weight133" Value="0" />
+   <Option Name="Disabled Languages133_Count" Value="0" />
+   <Option Name="IssueType134" Value="Warning" />
+   <Option Name="MetricType134" Value="QualityDebt" />
+   <Option Name="Metric Weight134" Value="200" />
+   <Option Name="Disabled Languages134_Count" Value="0" />
+   <Option Name="IssueType135" Value="DeadCode" />
+   <Option Name="MetricType135" Value="RedundancyIndex" />
+   <Option Name="Metric Weight135" Value="10" />
+   <Option Name="Disabled Languages135_Count" Value="0" />
+   <Option Name="IssueType136" Value="DeadCode" />
+   <Option Name="MetricType136" Value="None" />
+   <Option Name="Metric Weight136" Value="0" />
+   <Option Name="Disabled Languages136_Count" Value="0" />
+   <Option Name="IssueType137" Value="DeadCode" />
+   <Option Name="MetricType137" Value="RedundancyIndex" />
+   <Option Name="Metric Weight137" Value="8" />
+   <Option Name="Disabled Languages137_Count" Value="0" />
+   <Option Name="IssueType138" Value="DeadCode" />
+   <Option Name="MetricType138" Value="RedundancyIndex" />
+   <Option Name="Metric Weight138" Value="8" />
+   <Option Name="Disabled Languages138_Count" Value="0" />
+   <Option Name="IssueType139" Value="Warning" />
+   <Option Name="MetricType139" Value="QualityDebt" />
+   <Option Name="Metric Weight139" Value="100" />
+   <Option Name="Disabled Languages139_Count" Value="0" />
+   <Option Name="IssueType140" Value="Error" />
+   <Option Name="MetricType140" Value="None" />
+   <Option Name="Metric Weight140" Value="0" />
+   <Option Name="Disabled Languages140_Count" Value="0" />
+   <Option Name="IssueType141" Value="Error" />
+   <Option Name="MetricType141" Value="None" />
+   <Option Name="Metric Weight141" Value="0" />
+   <Option Name="Disabled Languages141_Count" Value="0" />
+   <Option Name="IssueType142" Value="Error" />
+   <Option Name="MetricType142" Value="None" />
+   <Option Name="Metric Weight142" Value="0" />
+   <Option Name="Disabled Languages142_Count" Value="0" />
+   <Option Name="ProviderName143" Value="Catch blocks that simply re-throw the same exception" />
+   <Option Name="Enabled143" Value="True" />
+   <Option Name="IssueType143" Value="Hint" />
+   <Option Name="MetricType143" Value="RedundancyIndex" />
+   <Option Name="Metric Weight143" Value="40" />
+   <Option Name="ProviderName144" Value="Suspicious use of 'this' qualifier" />
+   <Option Name="Enabled144" Value="True" />
+   <Option Name="IssueType144" Value="Hint" />
+   <Option Name="MetricType144" Value="None" />
+   <Option Name="Metric Weight144" Value="0" />
   </Section>
  </Language>
 </Page>

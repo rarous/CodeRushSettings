@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="Preferences">
    <Option Name="Enabled" Value="True" />
-   <Option Name="Metric" Value="LineCount" />
+   <Option Name="Metric" Value="CyclomaticComplexity" />
    <Option Name="ClickableMetrics" Value="True" />
    <Option Name="OnRight" Value="False" />
    <Option Name="Opacity.CyclomaticComplexity" Value="128" />

@@ -4,7 +4,7 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="Accept suggestions with Enter; cycle suggestions with Tab and Shift+Tab.$LineBreak$$LineBreak$See comment for the Intellassist folder (parenting this folder) for notes on how to enable or disable this group of UI settings for Intellassist." />
-   <Option Name="FolderState" Value="Collapsed" />
+   <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="9" />

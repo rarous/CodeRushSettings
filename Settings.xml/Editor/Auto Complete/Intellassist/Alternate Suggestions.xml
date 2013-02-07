@@ -15,6 +15,8 @@
    <Option Name="phone" Value="phone" />
    <Option Name="interceptor" Value="interceptor" />
    <Option Name="schemas,schemas,GetContractSchemas,GetConnectorSchemas,RegisterSchemas,ExportConnectorSchemas,ExportEndpoint,ExportContract,LoadConnectorSchemas,Validate,ApplyDispatchBehavior,ApplyClientBehavior,AddBindingParameters" Value="schemas" />
+   <Option Name="result" Value="result" />
+   <Option Name="client" Value="client" />
   </Section>
  </Language>
 </Page>

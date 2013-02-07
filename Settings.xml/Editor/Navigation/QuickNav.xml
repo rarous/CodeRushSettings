@@ -7,6 +7,8 @@
    <Option Name="ShowingFilterControls" Value="False" />
    <Option Name="ShowingStringFilter" Value="True" />
    <Option Name="ShowTypeNames" Value="False" />
+   <Option Name="ShowFilePath" Value="False" />
   </Section>
  </Language>
+ <UserXmlData Name="RecentElements" />
 </Page>

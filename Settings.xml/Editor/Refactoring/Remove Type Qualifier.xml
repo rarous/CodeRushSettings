@@ -2,7 +2,7 @@
 <Page Name="Remove Type Qualifier">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="RemoveTypeMethod" Value="Manual" />
+   <Option Name="RemoveTypeMethod" Value="Scope" />
   </Section>
  </Language>
 </Page>

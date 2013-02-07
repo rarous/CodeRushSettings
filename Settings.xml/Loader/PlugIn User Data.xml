@@ -1136,5 +1136,10 @@
    <Option Name="LoadAbilityType" Value="LoadEnabled" />
    <Option Name="LoadAbilityAfterRestart" Value="" />
   </Section>
+  <Section Name="TestResultsStatus">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
  </Language>
 </Page>

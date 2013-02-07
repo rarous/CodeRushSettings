@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="Enabled" Value="True" />
-   <Option Name="UseAdvancedChecks" Value="False" />
+   <Option Name="UseAdvancedChecks" Value="True" />
   </Section>
  </Language>
 </Page>

@@ -2,7 +2,7 @@
 <Page Name="Catalog">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Count" Value="197" />
+   <Option Name="Count" Value="208" />
   </Section>
   <Section Name="RefactoringsList">
    <Option Name="ProviderName0" Value="Add Block Delimiters" />
@@ -73,332 +73,354 @@
    <Option Name="Enabled32" Value="True" />
    <Option Name="ProviderName33" Value="Convert to Is Nothing" />
    <Option Name="Enabled33" Value="True" />
-   <Option Name="ProviderName34" Value="Convert to Parallel" />
+   <Option Name="ProviderName34" Value="Convert to Math Operation" />
    <Option Name="Enabled34" Value="True" />
-   <Option Name="ProviderName35" Value="Convert to Point" />
+   <Option Name="ProviderName35" Value="Convert to Parallel" />
    <Option Name="Enabled35" Value="True" />
-   <Option Name="ProviderName36" Value="Convert to Size" />
+   <Option Name="ProviderName36" Value="Convert to Point" />
    <Option Name="Enabled36" Value="True" />
-   <Option Name="ProviderName37" Value="Convert to System Type" />
+   <Option Name="ProviderName37" Value="Convert to Size" />
    <Option Name="Enabled37" Value="True" />
-   <Option Name="ProviderName38" Value="Convert to Tuple" />
+   <Option Name="ProviderName38" Value="Convert to System Type" />
    <Option Name="Enabled38" Value="True" />
-   <Option Name="ProviderName39" Value="Create Backing Store" />
+   <Option Name="ProviderName39" Value="Convert to Tuple" />
    <Option Name="Enabled39" Value="True" />
-   <Option Name="ProviderName40" Value="Create Multi-variable Declaration" />
+   <Option Name="ProviderName40" Value="Create Backing Store" />
    <Option Name="Enabled40" Value="True" />
-   <Option Name="ProviderName41" Value="Create Overload" />
+   <Option Name="ProviderName41" Value="Create Multi-variable Declaration" />
    <Option Name="Enabled41" Value="True" />
-   <Option Name="ProviderName42" Value="Create Setter Method" />
+   <Option Name="ProviderName42" Value="Create Overload" />
    <Option Name="Enabled42" Value="True" />
-   <Option Name="ProviderName43" Value="Create With Statement" />
+   <Option Name="ProviderName43" Value="Create Setter Method" />
    <Option Name="Enabled43" Value="True" />
-   <Option Name="ProviderName44" Value="Decompose Initializer" />
+   <Option Name="ProviderName44" Value="Create With Statement" />
    <Option Name="Enabled44" Value="True" />
-   <Option Name="ProviderName45" Value="Decompose Parameter" />
+   <Option Name="ProviderName45" Value="Decompose Initializer" />
    <Option Name="Enabled45" Value="True" />
-   <Option Name="ProviderName46" Value="Encapsulate Downcast" />
+   <Option Name="ProviderName46" Value="Decompose Parameter" />
    <Option Name="Enabled46" Value="True" />
-   <Option Name="ProviderName47" Value="Encapsulate Event" />
+   <Option Name="ProviderName47" Value="Encapsulate Downcast" />
    <Option Name="Enabled47" Value="True" />
-   <Option Name="ProviderName48" Value="Encapsulate Field" />
+   <Option Name="ProviderName48" Value="Encapsulate Event" />
    <Option Name="Enabled48" Value="True" />
-   <Option Name="ProviderName49" Value="Encapsulate Field (read-only)" />
+   <Option Name="ProviderName49" Value="Encapsulate Field" />
    <Option Name="Enabled49" Value="True" />
-   <Option Name="ProviderName50" Value="Encapsulate Method" />
+   <Option Name="ProviderName50" Value="Encapsulate Field (VS)" />
    <Option Name="Enabled50" Value="True" />
-   <Option Name="ProviderName51" Value="Encapsulate Property" />
+   <Option Name="ProviderName51" Value="Encapsulate Field (read-only)" />
    <Option Name="Enabled51" Value="True" />
-   <Option Name="ProviderName52" Value="Execute Statement Asynchronously (FromAsync)" />
+   <Option Name="ProviderName52" Value="Encapsulate Method" />
    <Option Name="Enabled52" Value="True" />
-   <Option Name="ProviderName53" Value="Execute Statement Asynchronously (StartNew)" />
+   <Option Name="ProviderName53" Value="Encapsulate Property" />
    <Option Name="Enabled53" Value="True" />
-   <Option Name="ProviderName54" Value="Execute Statements in Parallel" />
+   <Option Name="ProviderName54" Value="Execute Statement Asynchronously (FromAsync)" />
    <Option Name="Enabled54" Value="True" />
-   <Option Name="ProviderName55" Value="Execute Statements in Serial" />
+   <Option Name="ProviderName55" Value="Execute Statement Asynchronously (StartNew)" />
    <Option Name="Enabled55" Value="True" />
-   <Option Name="ProviderName56" Value="Expand Accessor" />
+   <Option Name="ProviderName56" Value="Execute Statements in Parallel" />
    <Option Name="Enabled56" Value="True" />
-   <Option Name="ProviderName57" Value="Expand Accessors" />
+   <Option Name="ProviderName57" Value="Execute Statements in Serial" />
    <Option Name="Enabled57" Value="True" />
-   <Option Name="ProviderName58" Value="Expand Assignment" />
+   <Option Name="ProviderName58" Value="Expand Accessor" />
    <Option Name="Enabled58" Value="True" />
-   <Option Name="ProviderName59" Value="Expand Conditional" />
+   <Option Name="ProviderName59" Value="Expand Accessors" />
    <Option Name="Enabled59" Value="True" />
-   <Option Name="ProviderName60" Value="Expand Getter" />
+   <Option Name="ProviderName60" Value="Expand Assignment" />
    <Option Name="Enabled60" Value="True" />
-   <Option Name="ProviderName61" Value="Expand Lambda Expression" />
+   <Option Name="ProviderName61" Value="Expand Conditional" />
    <Option Name="Enabled61" Value="True" />
-   <Option Name="ProviderName62" Value="Expand Null Coalescing Operation" />
+   <Option Name="ProviderName62" Value="Expand Getter" />
    <Option Name="Enabled62" Value="True" />
-   <Option Name="ProviderName63" Value="Expand Setter" />
+   <Option Name="ProviderName63" Value="Expand Lambda Expression" />
    <Option Name="Enabled63" Value="True" />
-   <Option Name="ProviderName64" Value="Expand Ternary Expression" />
+   <Option Name="ProviderName64" Value="Expand Null Coalescing Operation" />
    <Option Name="Enabled64" Value="True" />
-   <Option Name="ProviderName65" Value="Extract ContentPlaceHolder" />
+   <Option Name="ProviderName65" Value="Expand Setter" />
    <Option Name="Enabled65" Value="True" />
-   <Option Name="ProviderName66" Value="Extract ContentPlaceHolder (and create master page)" />
+   <Option Name="ProviderName66" Value="Expand Ternary Expression" />
    <Option Name="Enabled66" Value="True" />
-   <Option Name="ProviderName67" Value="Extract Editor Template" />
+   <Option Name="ProviderName67" Value="Extract ContentPlaceHolder" />
    <Option Name="Enabled67" Value="True" />
-   <Option Name="ProviderName68" Value="Extract Function" />
+   <Option Name="ProviderName68" Value="Extract ContentPlaceHolder (and create master page)" />
    <Option Name="Enabled68" Value="True" />
-   <Option Name="ProviderName69" Value="Extract Interface" />
+   <Option Name="ProviderName69" Value="Extract Editor Template" />
    <Option Name="Enabled69" Value="True" />
-   <Option Name="ProviderName70" Value="Extract Method" />
+   <Option Name="ProviderName70" Value="Extract Function" />
    <Option Name="Enabled70" Value="True" />
-   <Option Name="ProviderName71" Value="Extract Method to Type" />
+   <Option Name="ProviderName71" Value="Extract Interface" />
    <Option Name="Enabled71" Value="True" />
-   <Option Name="ProviderName72" Value="Extract Partial View" />
+   <Option Name="ProviderName72" Value="Extract Interface (VS)" />
    <Option Name="Enabled72" Value="True" />
-   <Option Name="ProviderName73" Value="Extract Property" />
+   <Option Name="ProviderName73" Value="Extract Method" />
    <Option Name="Enabled73" Value="True" />
-   <Option Name="ProviderName74" Value="Extract Script" />
+   <Option Name="ProviderName74" Value="Extract Method (VS)" />
    <Option Name="Enabled74" Value="True" />
-   <Option Name="ProviderName75" Value="Extract String to Resource" />
+   <Option Name="ProviderName75" Value="Extract Method to Type" />
    <Option Name="Enabled75" Value="True" />
-   <Option Name="ProviderName76" Value="Extract String to Resource (replace all)" />
+   <Option Name="ProviderName76" Value="Extract Partial View" />
    <Option Name="Enabled76" Value="True" />
-   <Option Name="ProviderName77" Value="Extract Style (class)" />
+   <Option Name="ProviderName77" Value="Extract Property" />
    <Option Name="Enabled77" Value="True" />
-   <Option Name="ProviderName78" Value="Extract Style (id)" />
+   <Option Name="ProviderName78" Value="Extract Script" />
    <Option Name="Enabled78" Value="True" />
-   <Option Name="ProviderName79" Value="Extract to XAML Resource" />
+   <Option Name="ProviderName79" Value="Extract String to Resource" />
    <Option Name="Enabled79" Value="True" />
-   <Option Name="ProviderName80" Value="Extract to XAML Resource (replace all)" />
+   <Option Name="ProviderName80" Value="Extract String to Resource (replace all)" />
    <Option Name="Enabled80" Value="True" />
-   <Option Name="ProviderName81" Value="Extract to XAML Template" />
+   <Option Name="ProviderName81" Value="Extract Style (class)" />
    <Option Name="Enabled81" Value="True" />
-   <Option Name="ProviderName82" Value="Extract UserControl" />
+   <Option Name="ProviderName82" Value="Extract Style (id)" />
    <Option Name="Enabled82" Value="True" />
-   <Option Name="ProviderName83" Value="Extract XML Literal to Resource" />
+   <Option Name="ProviderName83" Value="Extract to XAML Resource" />
    <Option Name="Enabled83" Value="True" />
-   <Option Name="ProviderName84" Value="Flatten Conditional" />
+   <Option Name="ProviderName84" Value="Extract to XAML Resource (replace all)" />
    <Option Name="Enabled84" Value="True" />
-   <Option Name="ProviderName85" Value="For to ForEach" />
+   <Option Name="ProviderName85" Value="Extract to XAML Template" />
    <Option Name="Enabled85" Value="True" />
-   <Option Name="ProviderName86" Value="ForEach to For" />
+   <Option Name="ProviderName86" Value="Extract UserControl" />
    <Option Name="Enabled86" Value="True" />
-   <Option Name="ProviderName87" Value="Initialize Conditionally" />
+   <Option Name="ProviderName87" Value="Extract XML Literal to Resource" />
    <Option Name="Enabled87" Value="True" />
-   <Option Name="ProviderName88" Value="Inline Alias" />
+   <Option Name="ProviderName88" Value="Flatten Conditional" />
    <Option Name="Enabled88" Value="True" />
-   <Option Name="ProviderName89" Value="Inline Constant" />
+   <Option Name="ProviderName89" Value="For to ForEach" />
    <Option Name="Enabled89" Value="True" />
-   <Option Name="ProviderName90" Value="Inline Delegate" />
+   <Option Name="ProviderName90" Value="ForEach to For" />
    <Option Name="Enabled90" Value="True" />
-   <Option Name="ProviderName91" Value="Inline Format Item" />
+   <Option Name="ProviderName91" Value="Initialize Conditionally" />
    <Option Name="Enabled91" Value="True" />
-   <Option Name="ProviderName92" Value="Inline Macro" />
+   <Option Name="ProviderName92" Value="Inline Alias" />
    <Option Name="Enabled92" Value="True" />
-   <Option Name="ProviderName93" Value="Inline Method" />
+   <Option Name="ProviderName93" Value="Inline Constant" />
    <Option Name="Enabled93" Value="True" />
-   <Option Name="ProviderName94" Value="Inline Method (and delete)" />
+   <Option Name="ProviderName94" Value="Inline Delegate" />
    <Option Name="Enabled94" Value="True" />
-   <Option Name="ProviderName95" Value="Inline Recent Assignment" />
+   <Option Name="ProviderName95" Value="Inline Format Item" />
    <Option Name="Enabled95" Value="True" />
-   <Option Name="ProviderName96" Value="Inline Result" />
+   <Option Name="ProviderName96" Value="Inline Macro" />
    <Option Name="Enabled96" Value="True" />
-   <Option Name="ProviderName97" Value="Inline Temp" />
+   <Option Name="ProviderName97" Value="Inline Method" />
    <Option Name="Enabled97" Value="True" />
-   <Option Name="ProviderName98" Value="Inline With Statement" />
+   <Option Name="ProviderName98" Value="Inline Method (and delete)" />
    <Option Name="Enabled98" Value="True" />
-   <Option Name="ProviderName99" Value="Introduce Alias" />
+   <Option Name="ProviderName99" Value="Inline Recent Assignment" />
    <Option Name="Enabled99" Value="True" />
-   <Option Name="ProviderName100" Value="Introduce Alias (replace all)" />
+   <Option Name="ProviderName100" Value="Inline Result" />
    <Option Name="Enabled100" Value="True" />
-   <Option Name="ProviderName101" Value="Introduce Constant" />
+   <Option Name="ProviderName101" Value="Inline Temp" />
    <Option Name="Enabled101" Value="True" />
-   <Option Name="ProviderName102" Value="Introduce Constant (local)" />
+   <Option Name="ProviderName102" Value="Inline With Statement" />
    <Option Name="Enabled102" Value="True" />
-   <Option Name="ProviderName103" Value="Introduce ForEach Action" />
+   <Option Name="ProviderName103" Value="Introduce Alias" />
    <Option Name="Enabled103" Value="True" />
-   <Option Name="ProviderName104" Value="Introduce Format Item" />
+   <Option Name="ProviderName104" Value="Introduce Alias (replace all)" />
    <Option Name="Enabled104" Value="True" />
-   <Option Name="ProviderName105" Value="Introduce Local" />
+   <Option Name="ProviderName105" Value="Introduce Constant" />
    <Option Name="Enabled105" Value="True" />
-   <Option Name="ProviderName106" Value="Introduce Local (replace all)" />
+   <Option Name="ProviderName106" Value="Introduce Constant (local)" />
    <Option Name="Enabled106" Value="True" />
-   <Option Name="ProviderName107" Value="Introduce Parameter Object" />
+   <Option Name="ProviderName107" Value="Introduce ForEach Action" />
    <Option Name="Enabled107" Value="True" />
-   <Option Name="ProviderName108" Value="Introduce Result Variable" />
+   <Option Name="ProviderName108" Value="Introduce Format Item" />
    <Option Name="Enabled108" Value="True" />
-   <Option Name="ProviderName109" Value="Line Up Attributes" />
+   <Option Name="ProviderName109" Value="Introduce Local" />
    <Option Name="Enabled109" Value="True" />
-   <Option Name="ProviderName110" Value="Line-up Parameters" />
+   <Option Name="ProviderName110" Value="Introduce Local (replace all)" />
    <Option Name="Enabled110" Value="True" />
-   <Option Name="ProviderName111" Value="Lock to Try/Finally" />
+   <Option Name="ProviderName111" Value="Introduce Parameter Object" />
    <Option Name="Enabled111" Value="True" />
-   <Option Name="ProviderName112" Value="Make Explicit" />
+   <Option Name="ProviderName112" Value="Introduce Result Variable" />
    <Option Name="Enabled112" Value="True" />
-   <Option Name="ProviderName113" Value="Make Explicit (and Name Anonymous Type)" />
+   <Option Name="ProviderName113" Value="Line Up Attributes" />
    <Option Name="Enabled113" Value="True" />
-   <Option Name="ProviderName114" Value="Make Extension" />
+   <Option Name="ProviderName114" Value="Line-up Parameters" />
    <Option Name="Enabled114" Value="True" />
-   <Option Name="ProviderName115" Value="Make ID Unique" />
+   <Option Name="ProviderName115" Value="Lock to Try/Finally" />
    <Option Name="Enabled115" Value="True" />
-   <Option Name="ProviderName116" Value="Make Implicit" />
+   <Option Name="ProviderName116" Value="Make Explicit" />
    <Option Name="Enabled116" Value="True" />
-   <Option Name="ProviderName117" Value="Make Member Non-static" />
+   <Option Name="ProviderName117" Value="Make Explicit (and Name Anonymous Type)" />
    <Option Name="Enabled117" Value="True" />
-   <Option Name="ProviderName118" Value="Make Member Static" />
+   <Option Name="ProviderName118" Value="Make Extension" />
    <Option Name="Enabled118" Value="True" />
-   <Option Name="ProviderName119" Value="Make Read-only" />
+   <Option Name="ProviderName119" Value="Make ID Unique" />
    <Option Name="Enabled119" Value="True" />
-   <Option Name="ProviderName120" Value="Merge Duplicate Variable Declarations" />
+   <Option Name="ProviderName120" Value="Make Implicit" />
    <Option Name="Enabled120" Value="True" />
-   <Option Name="ProviderName121" Value="Method to Property" />
+   <Option Name="ProviderName121" Value="Make Member Non-static" />
    <Option Name="Enabled121" Value="True" />
-   <Option Name="ProviderName122" Value="Move Declaration Near Reference" />
+   <Option Name="ProviderName122" Value="Make Member Static" />
    <Option Name="Enabled122" Value="True" />
-   <Option Name="ProviderName123" Value="Move Initialization to Declaration" />
+   <Option Name="ProviderName123" Value="Make Read-only" />
    <Option Name="Enabled123" Value="True" />
-   <Option Name="ProviderName124" Value="Move Method to Header" />
+   <Option Name="ProviderName124" Value="Merge Duplicate Variable Declarations" />
    <Option Name="Enabled124" Value="True" />
-   <Option Name="ProviderName125" Value="Move Method to Source File" />
+   <Option Name="ProviderName125" Value="Method to Property" />
    <Option Name="Enabled125" Value="True" />
-   <Option Name="ProviderName126" Value="Move Style Attributes to CSS" />
+   <Option Name="ProviderName126" Value="Move Declaration Near Reference" />
    <Option Name="Enabled126" Value="True" />
-   <Option Name="ProviderName127" Value="Move Style Attributes to External CSS" />
+   <Option Name="ProviderName127" Value="Move Initialization to Declaration" />
    <Option Name="Enabled127" Value="True" />
-   <Option Name="ProviderName128" Value="Move Syle Attributes to Theme" />
+   <Option Name="ProviderName128" Value="Move Method to Header" />
    <Option Name="Enabled128" Value="True" />
-   <Option Name="ProviderName129" Value="Move to Code-behind" />
+   <Option Name="ProviderName129" Value="Move Method to Source File" />
    <Option Name="Enabled129" Value="True" />
-   <Option Name="ProviderName130" Value="Move Type to File" />
+   <Option Name="ProviderName130" Value="Move Style Attributes to CSS" />
    <Option Name="Enabled130" Value="True" />
-   <Option Name="ProviderName131" Value="Move Type to Namespace" />
+   <Option Name="ProviderName131" Value="Move Style Attributes to External CSS" />
    <Option Name="Enabled131" Value="True" />
-   <Option Name="ProviderName132" Value="Name Anonymous Method" />
+   <Option Name="ProviderName132" Value="Move Syle Attributes to Theme" />
    <Option Name="Enabled132" Value="True" />
-   <Option Name="ProviderName133" Value="Name Anonymous Type" />
+   <Option Name="ProviderName133" Value="Move to Code-behind" />
    <Option Name="Enabled133" Value="True" />
-   <Option Name="ProviderName134" Value="Optimize Namespace References" />
+   <Option Name="ProviderName134" Value="Move Type to File" />
    <Option Name="Enabled134" Value="True" />
-   <Option Name="ProviderName135" Value="Promote to Parameter" />
+   <Option Name="ProviderName135" Value="Move Type to Namespace" />
    <Option Name="Enabled135" Value="True" />
-   <Option Name="ProviderName136" Value="Promote to Parameter (optional)" />
+   <Option Name="ProviderName136" Value="Name Anonymous Method" />
    <Option Name="Enabled136" Value="True" />
-   <Option Name="ProviderName137" Value="Property to Method(s)" />
+   <Option Name="ProviderName137" Value="Name Anonymous Type" />
    <Option Name="Enabled137" Value="True" />
-   <Option Name="ProviderName138" Value="Pull Member Up" />
+   <Option Name="ProviderName138" Value="Optimize Namespace References" />
    <Option Name="Enabled138" Value="True" />
-   <Option Name="ProviderName139" Value="Reduce Visibility" />
+   <Option Name="ProviderName139" Value="Promote Local Variable to Parameter (VS)" />
    <Option Name="Enabled139" Value="True" />
-   <Option Name="ProviderName140" Value="Remove Assignments to Parameter" />
+   <Option Name="ProviderName140" Value="Promote to Generic" />
    <Option Name="Enabled140" Value="True" />
-   <Option Name="ProviderName141" Value="Remove Event Handler" />
+   <Option Name="ProviderName141" Value="Promote to Parameter" />
    <Option Name="Enabled141" Value="True" />
-   <Option Name="ProviderName142" Value="Remove End Tag" />
+   <Option Name="ProviderName142" Value="Promote to Parameter (optional)" />
    <Option Name="Enabled142" Value="True" />
-   <Option Name="ProviderName143" Value="Remove Parameter" />
+   <Option Name="ProviderName143" Value="Property to Method(s)" />
    <Option Name="Enabled143" Value="True" />
-   <Option Name="ProviderName144" Value="Remove Private Setter" />
+   <Option Name="ProviderName144" Value="Pull Member Up" />
    <Option Name="Enabled144" Value="True" />
-   <Option Name="ProviderName145" Value="Remove Redundant Assignment" />
+   <Option Name="ProviderName145" Value="Reduce Visibility" />
    <Option Name="Enabled145" Value="True" />
-   <Option Name="ProviderName146" Value="Remove Redundant Block Delimiters" />
+   <Option Name="ProviderName146" Value="Remove Assignments to Parameter" />
    <Option Name="Enabled146" Value="True" />
-   <Option Name="ProviderName147" Value="Remove Redundant Call" />
+   <Option Name="ProviderName147" Value="Remove Event Handler" />
    <Option Name="Enabled147" Value="True" />
-   <Option Name="ProviderName148" Value="Remove Redundant Constructor" />
+   <Option Name="ProviderName148" Value="Remove End Tag" />
    <Option Name="Enabled148" Value="True" />
-   <Option Name="ProviderName149" Value="Remove Redundant Delegate Creation" />
+   <Option Name="ProviderName149" Value="Remove Parameter" />
    <Option Name="Enabled149" Value="True" />
-   <Option Name="ProviderName150" Value="Remove Redundant Destructor" />
+   <Option Name="ProviderName150" Value="Remove Parameters (VS)" />
    <Option Name="Enabled150" Value="True" />
-   <Option Name="ProviderName151" Value="Remove Redundant Qualifier" />
+   <Option Name="ProviderName151" Value="Remove Private Setter" />
    <Option Name="Enabled151" Value="True" />
-   <Option Name="ProviderName152" Value="Remove Redundant Type Specification" />
+   <Option Name="ProviderName152" Value="Remove Redundant Assignment" />
    <Option Name="Enabled152" Value="True" />
-   <Option Name="ProviderName153" Value="Remove Type Qualifier" />
+   <Option Name="ProviderName153" Value="Remove Redundant Block Delimiters" />
    <Option Name="Enabled153" Value="True" />
-   <Option Name="ProviderName154" Value="Remove Type Qualifier (remove all)" />
+   <Option Name="ProviderName154" Value="Remove Redundant Call" />
    <Option Name="Enabled154" Value="True" />
-   <Option Name="ProviderName155" Value="RenameXamlNamespacePrefix" />
+   <Option Name="ProviderName155" Value="Remove Redundant Constructor" />
    <Option Name="Enabled155" Value="True" />
-   <Option Name="ProviderName156" Value="Rename" />
+   <Option Name="ProviderName156" Value="Remove Redundant Delegate Creation" />
    <Option Name="Enabled156" Value="True" />
-   <Option Name="ProviderName157" Value="Rename File to Match Type" />
+   <Option Name="ProviderName157" Value="Remove Redundant Destructor" />
    <Option Name="Enabled157" Value="True" />
-   <Option Name="ProviderName158" Value="Rename Style (in all referenced files)" />
+   <Option Name="ProviderName158" Value="Remove Redundant Qualifier" />
    <Option Name="Enabled158" Value="True" />
-   <Option Name="ProviderName159" Value="Rename Style (in project files)" />
+   <Option Name="ProviderName159" Value="Remove Redundant Type Specification" />
    <Option Name="Enabled159" Value="True" />
-   <Option Name="ProviderName160" Value="Rename Type to Match File" />
+   <Option Name="ProviderName160" Value="Remove Type Qualifier" />
    <Option Name="Enabled160" Value="True" />
-   <Option Name="ProviderName161" Value="Reorder Attributes" />
+   <Option Name="ProviderName161" Value="Remove Type Qualifier (remove all)" />
    <Option Name="Enabled161" Value="True" />
-   <Option Name="ProviderName162" Value="Reorder Parameters" />
+   <Option Name="ProviderName162" Value="Remove Unused Member" />
    <Option Name="Enabled162" Value="True" />
-   <Option Name="ProviderName163" Value="Replace Temp with Query" />
+   <Option Name="ProviderName163" Value="RenameXamlNamespacePrefix" />
    <Option Name="Enabled163" Value="True" />
-   <Option Name="ProviderName164" Value="Replace with Alias" />
+   <Option Name="ProviderName164" Value="Rename" />
    <Option Name="Enabled164" Value="True" />
-   <Option Name="ProviderName165" Value="Replace with Constant" />
+   <Option Name="ProviderName165" Value="Rename (VS)" />
    <Option Name="Enabled165" Value="True" />
-   <Option Name="ProviderName166" Value="Replace with Local" />
+   <Option Name="ProviderName166" Value="Rename File to Match Type" />
    <Option Name="Enabled166" Value="True" />
-   <Option Name="ProviderName167" Value="Replace with XAML Resource" />
+   <Option Name="ProviderName167" Value="Rename Style (in all referenced files)" />
    <Option Name="Enabled167" Value="True" />
-   <Option Name="ProviderName168" Value="Reverse Boolean" />
+   <Option Name="ProviderName168" Value="Rename Style (in project files)" />
    <Option Name="Enabled168" Value="True" />
-   <Option Name="ProviderName169" Value="Reverse Conditional" />
+   <Option Name="ProviderName169" Value="Rename Type to Match File" />
    <Option Name="Enabled169" Value="True" />
-   <Option Name="ProviderName170" Value="Safe Rename" />
+   <Option Name="ProviderName170" Value="Reorder Attributes" />
    <Option Name="Enabled170" Value="True" />
-   <Option Name="ProviderName171" Value="Set Image Dimensions" />
+   <Option Name="ProviderName171" Value="Reorder Parameters" />
    <Option Name="Enabled171" Value="True" />
-   <Option Name="ProviderName172" Value="Simplify Expression" />
+   <Option Name="ProviderName172" Value="Reorder Parameters (VS)" />
    <Option Name="Enabled172" Value="True" />
-   <Option Name="ProviderName173" Value="Sort Namespace References" />
+   <Option Name="ProviderName173" Value="Replace Temp with Query" />
    <Option Name="Enabled173" Value="True" />
-   <Option Name="ProviderName174" Value="Split Conditional" />
+   <Option Name="ProviderName174" Value="Replace with Alias" />
    <Option Name="Enabled174" Value="True" />
-   <Option Name="ProviderName175" Value="Split Initialization from Declaration" />
+   <Option Name="ProviderName175" Value="Replace with Constant" />
    <Option Name="Enabled175" Value="True" />
-   <Option Name="ProviderName176" Value="Split Multi-variable Declaration" />
+   <Option Name="ProviderName176" Value="Replace with Local" />
    <Option Name="Enabled176" Value="True" />
-   <Option Name="ProviderName177" Value="Split String" />
+   <Option Name="ProviderName177" Value="Replace with XAML Resource" />
    <Option Name="Enabled177" Value="True" />
-   <Option Name="ProviderName178" Value="Split Temporary Variable" />
+   <Option Name="ProviderName178" Value="Reverse Boolean" />
    <Option Name="Enabled178" Value="True" />
-   <Option Name="ProviderName179" Value="Split Using Statement" />
+   <Option Name="ProviderName179" Value="Reverse Conditional" />
    <Option Name="Enabled179" Value="True" />
-   <Option Name="ProviderName180" Value="Split With Statement" />
+   <Option Name="ProviderName180" Value="Safe Rename" />
    <Option Name="Enabled180" Value="True" />
-   <Option Name="ProviderName181" Value="Update Obsolete Reference" />
+   <Option Name="ProviderName181" Value="Set Image Dimensions" />
    <Option Name="Enabled181" Value="True" />
-   <Option Name="ProviderName182" Value="Use Const" />
+   <Option Name="ProviderName182" Value="Simplify Expression" />
    <Option Name="Enabled182" Value="True" />
-   <Option Name="ProviderName183" Value="Use Environment.NewLine" />
+   <Option Name="ProviderName183" Value="Sort Namespace References" />
    <Option Name="Enabled183" Value="True" />
-   <Option Name="ProviderName184" Value="Use Explicit Notation" />
+   <Option Name="ProviderName184" Value="Sort Selection" />
    <Option Name="Enabled184" Value="True" />
-   <Option Name="ProviderName185" Value="Use Implicit Line Continuation" />
+   <Option Name="ProviderName185" Value="Split Conditional" />
    <Option Name="Enabled185" Value="True" />
-   <Option Name="ProviderName186" Value="Use IsNullOrEmpty" />
+   <Option Name="ProviderName186" Value="Split Initialization from Declaration" />
    <Option Name="Enabled186" Value="True" />
-   <Option Name="ProviderName187" Value="Use Named Arguments" />
+   <Option Name="ProviderName187" Value="Split Multi-variable Declaration" />
    <Option Name="Enabled187" Value="True" />
-   <Option Name="ProviderName188" Value="Use Short Notation" />
+   <Option Name="ProviderName188" Value="Split String" />
    <Option Name="Enabled188" Value="True" />
-   <Option Name="ProviderName189" Value="Use String.Compare" />
+   <Option Name="ProviderName189" Value="Split Temporary Variable" />
    <Option Name="Enabled189" Value="True" />
-   <Option Name="ProviderName190" Value="Use String.Format" />
+   <Option Name="ProviderName190" Value="Split Using Statement" />
    <Option Name="Enabled190" Value="True" />
-   <Option Name="ProviderName191" Value="Use StringBuilder" />
+   <Option Name="ProviderName191" Value="Split With Statement" />
    <Option Name="Enabled191" Value="True" />
-   <Option Name="ProviderName192" Value="Use typedef" />
+   <Option Name="ProviderName192" Value="Update Obsolete Reference" />
    <Option Name="Enabled192" Value="True" />
-   <Option Name="ProviderName193" Value="Using to Try/Finally" />
+   <Option Name="ProviderName193" Value="Use Const" />
    <Option Name="Enabled193" Value="True" />
-   <Option Name="ProviderName194" Value="Widen Scope" />
+   <Option Name="ProviderName194" Value="Use Environment.NewLine" />
    <Option Name="Enabled194" Value="True" />
-   <Option Name="ProviderName195" Value="Widen Scope (promote constant)" />
+   <Option Name="ProviderName195" Value="Use Explicit Notation" />
    <Option Name="Enabled195" Value="True" />
-   <Option Name="ProviderName196" Value="Widen Scope (promote to field)" />
+   <Option Name="ProviderName196" Value="Use Implicit Line Continuation" />
    <Option Name="Enabled196" Value="True" />
+   <Option Name="ProviderName197" Value="Use IsNullOrEmpty" />
+   <Option Name="Enabled197" Value="True" />
+   <Option Name="ProviderName198" Value="Use Named Arguments" />
+   <Option Name="Enabled198" Value="True" />
+   <Option Name="ProviderName199" Value="Use Short Notation" />
+   <Option Name="Enabled199" Value="True" />
+   <Option Name="ProviderName200" Value="Use String.Compare" />
+   <Option Name="Enabled200" Value="True" />
+   <Option Name="ProviderName201" Value="Use String.Format" />
+   <Option Name="Enabled201" Value="True" />
+   <Option Name="ProviderName202" Value="Use StringBuilder" />
+   <Option Name="Enabled202" Value="True" />
+   <Option Name="ProviderName203" Value="Use typedef" />
+   <Option Name="Enabled203" Value="True" />
+   <Option Name="ProviderName204" Value="Using to Try/Finally" />
+   <Option Name="Enabled204" Value="True" />
+   <Option Name="ProviderName205" Value="Widen Scope" />
+   <Option Name="Enabled205" Value="True" />
+   <Option Name="ProviderName206" Value="Widen Scope (promote constant)" />
+   <Option Name="Enabled206" Value="True" />
+   <Option Name="ProviderName207" Value="Widen Scope (promote to field)" />
+   <Option Name="Enabled207" Value="True" />
   </Section>
  </Language>
 </Page>

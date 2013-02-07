@@ -1,0 +1,61 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Decompiler">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Language" Value="CSharp" />
+   <Option Name="AssemblyPaths_Count" Value="52" />
+   <Option Name="AssemblyPaths_0" Value="C:\Projects\MultiConnector\packages\Castle.Core.3.1.0\lib\net40-client\Castle.Core.dll" />
+   <Option Name="AssemblyPaths_1" Value="C:\Projects\MultiConnector\packages\SgmlReader.1.8.8\lib\4.0\SgmlReaderDll.dll" />
+   <Option Name="AssemblyPaths_2" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" />
+   <Option Name="AssemblyPaths_3" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" />
+   <Option Name="AssemblyPaths_4" Value="C:\Projects\MultiConnector\packages\Rx-Core.2.0.21114\lib\Net40\System.Reactive.Core.dll" />
+   <Option Name="AssemblyPaths_5" Value="C:\Projects\MultiConnector\packages\Rx-Interfaces.2.0.21114\lib\Net40\System.Reactive.Interfaces.dll" />
+   <Option Name="AssemblyPaths_6" Value="C:\Projects\MultiConnector\packages\Rx-Linq.2.0.21114\lib\Net40\System.Reactive.Linq.dll" />
+   <Option Name="AssemblyPaths_7" Value="C:\Projects\MultiConnector\packages\Rx-PlatformServices.2.0.21114\lib\Net40\System.Reactive.PlatformServices.dll" />
+   <Option Name="AssemblyPaths_8" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll" />
+   <Option Name="AssemblyPaths_9" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.Linq.dll" />
+   <Option Name="AssemblyPaths_10" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.CSharp.dll" />
+   <Option Name="AssemblyPaths_11" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" />
+   <Option Name="AssemblyPaths_12" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" />
+   <Option Name="AssemblyPaths_13" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" />
+   <Option Name="AssemblyPaths_14" Value="C:\Projects\MultiConnector\packages\Castle.Facilities.AutoTx.3.2.207.2207\lib\net40\Castle.Facilities.AutoTx.dll" />
+   <Option Name="AssemblyPaths_15" Value="C:\Projects\MultiConnector\packages\Castle.FactorySupportFacility.3.1.0\lib\net40\Castle.Facilities.FactorySupport.dll" />
+   <Option Name="AssemblyPaths_16" Value="C:\Projects\MultiConnector\packages\Castle.LoggingFacility.3.1.0\lib\net40\Castle.Facilities.Logging.dll" />
+   <Option Name="AssemblyPaths_17" Value="C:\Projects\MultiConnector\packages\Castle.Facilities.NHibernate.0.7.1.23602\lib\net40\Castle.Facilities.NHibernate.dll" />
+   <Option Name="AssemblyPaths_18" Value="C:\Projects\MultiConnector\packages\Castle.Core-log4net.3.1.0\lib\net40\Castle.Services.Logging.Log4netIntegration.dll" />
+   <Option Name="AssemblyPaths_19" Value="C:\Projects\MultiConnector\packages\Castle.Transactions.3.2.207.2207\lib\net40\Castle.Transactions.dll" />
+   <Option Name="AssemblyPaths_20" Value="C:\Projects\MultiConnector\packages\Castle.Windsor.3.1.0\lib\net40\Castle.Windsor.dll" />
+   <Option Name="AssemblyPaths_21" Value="C:\Projects\MultiConnector\packages\Common.Logging.2.1.1\lib\net40\Common.Logging.dll" />
+   <Option Name="AssemblyPaths_22" Value="C:\Projects\MultiConnector\packages\Common.Logging.Log4Net.2.0.1\lib\net20\Common.Logging.Log4Net.dll" />
+   <Option Name="AssemblyPaths_23" Value="C:\Projects\MultiConnector\packages\FluentNHibernate.1.3.0.733\lib\FluentNHibernate.dll" />
+   <Option Name="AssemblyPaths_24" Value="C:\Projects\MultiConnector\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll" />
+   <Option Name="AssemblyPaths_25" Value="C:\Projects\MultiConnector\packages\log4net.1.2.10\lib\2.0\log4net.dll" />
+   <Option Name="AssemblyPaths_26" Value="C:\Projects\MultiConnector\packages\NHibernate.3.3.2.4000\lib\Net35\NHibernate.dll" />
+   <Option Name="AssemblyPaths_27" Value="C:\Projects\MultiConnector\packages\Rhino.ServiceBus.3.0.0.0\lib\4.0\Rhino.ServiceBus.dll" />
+   <Option Name="AssemblyPaths_28" Value="C:\Projects\MultiConnector\packages\Rhino.ServiceBus.Castle.3.0.0.0\lib\4.0\Rhino.ServiceBus.Castle.dll" />
+   <Option Name="AssemblyPaths_29" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll" />
+   <Option Name="AssemblyPaths_30" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.Install.dll" />
+   <Option Name="AssemblyPaths_31" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Transactions.dll" />
+   <Option Name="AssemblyPaths_32" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.DataSetExtensions.dll" />
+   <Option Name="AssemblyPaths_33" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceProcess.dll" />
+   <Option Name="AssemblyPaths_34" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Messaging.dll" />
+   <Option Name="AssemblyPaths_35" Value="C:\Projects\MultiConnector\packages\NSubstitute.1.4.3.0\lib\NET40\NSubstitute.dll" />
+   <Option Name="AssemblyPaths_36" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Runtime.Serialization.dll" />
+   <Option Name="AssemblyPaths_37" Value="C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll" />
+   <Option Name="AssemblyPaths_38" Value="C:\Projects\MultiConnector\packages\xunit.1.9.1\lib\net20\xunit.dll" />
+   <Option Name="AssemblyPaths_39" Value="C:\Projects\MultiConnector\packages\xunit.extensions.1.9.1\lib\net20\xunit.extensions.dll" />
+   <Option Name="AssemblyPaths_40" Value="C:\Projects\MultiConnector\packages\Castle.WcfIntegrationFacility.3.1.0\lib\net40\Castle.Facilities.WcfIntegration.dll" />
+   <Option Name="AssemblyPaths_41" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.Services.dll" />
+   <Option Name="AssemblyPaths_42" Value="C:\Projects\MultiConnector\packages\System.Data.SQLite.1.0.82.0\lib\net40\System.Data.SQLite.dll" />
+   <Option Name="AssemblyPaths_43" Value="C:\Projects\MultiConnector\packages\System.Data.SQLite.1.0.82.0\lib\net40\System.Data.SQLite.Linq.dll" />
+   <Option Name="AssemblyPaths_44" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.IdentityModel.dll" />
+   <Option Name="AssemblyPaths_45" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceModel.Activation.dll" />
+   <Option Name="AssemblyPaths_46" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceModel.Discovery.dll" />
+   <Option Name="AssemblyPaths_47" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceModel.Web.dll" />
+   <Option Name="AssemblyPaths_48" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Extensions.dll" />
+   <Option Name="AssemblyPaths_49" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Services.dll" />
+   <Option Name="AssemblyPaths_50" Value="C:\Windows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll" />
+   <Option Name="AssemblyPaths_51" Value="C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll" />
+  </Section>
+ </Language>
+</Page>

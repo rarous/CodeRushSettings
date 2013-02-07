@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Declare Method">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="MethodPosition" Value="UsePicker" />
+   <Option Name="SmartPasteIsEnabled" Value="True" />
+  </Section>
+ </Language>
+</Page>

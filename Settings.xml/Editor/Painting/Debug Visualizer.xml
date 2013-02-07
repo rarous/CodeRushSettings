@@ -6,7 +6,7 @@
    <Option Name="ImagesOpacity" Value="1" />
   </Section>
   <Section Name="ExpressionVisualizer">
-   <Option Name="Background" Value="Named:White" />
+   <Option Name="Background" Value="ARGB:255:12:16:33" />
    <Option Name="BackgroundUseVS" Value="True" />
    <Option Name="Code" Value="ARGB:255:0:0:0" />
    <Option Name="CodeUseVS" Value="False" />
@@ -57,7 +57,7 @@
   </Section>
   <Section Name="NodeMap">
    <Option Name="Border" Value="ARGB:128:192:192:192" />
-   <Option Name="Background" Value="Named:White" />
+   <Option Name="Background" Value="ARGB:255:12:16:33" />
    <Option Name="BackgroundUseVS" Value="True" />
    <Option Name="NodeBorder" Value="ARGB:255:121:183:247" />
    <Option Name="NodeBackground" Value="ARGB:255:213:233:255" />
@@ -71,7 +71,7 @@
    <Option Name="ActiveConclusiveNodeBackground" Value="ARGB:255:217:207:255" />
    <Option Name="ParentConclusiveNodeBorder" Value="ARGB:255:160:123:255" />
    <Option Name="ParentConclusiveNodeBackground" Value="ARGB:255:225:217:255" />
-   <Option Name="HiddenNodeBorder" Value="Named:White" />
+   <Option Name="HiddenNodeBorder" Value="ARGB:255:12:16:33" />
    <Option Name="HiddenNodeBorderUseVS" Value="True" />
    <Option Name="HiddenNodeBackground" Value="ARGB:255:226:223:234" />
    <Option Name="HiddenNodeBackgroundUseVS" Value="False" />

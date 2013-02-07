@@ -49,7 +49,7 @@
    <Option Name="DataViewWidth" Value="790" />
    <Option Name="DataViewHeight" Value="180" />
    <Option Name="DetailsVisibility" Value="2" />
-   <Option Name="DetailsPosition" Value="176" />
+   <Option Name="DetailsPosition" Value="245" />
   </Section>
   <Section Name="Global">
    <Option Name="Enabled" Value="True" />

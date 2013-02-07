@@ -2,7 +2,7 @@
 <Page Name="Comment Painter">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Enabled" Value="True" />
+   <Option Name="Enabled" Value="False" />
   </Section>
  </Language>
 </Page>
